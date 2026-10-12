@@ -1,0 +1,65 @@
+[
+   {
+      "text": "……没有。",
+      "pronounce_text": "……没有。",
+      "time_begin": 0.0,
+      "time_end": 879.7278911564626,
+      "text_begin": 0,
+      "text_end": 5,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 5,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "…",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 29.42528735632184,
+            "time_end": 117.70114942528735
+         },
+         {
+            "word": "…",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 117.70114942528735,
+            "time_end": 147.1264367816092
+         },
+         {
+            "word": "没",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "没",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 147.1264367816092,
+            "time_end": 617.9310344827586
+         },
+         {
+            "word": "有",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "有",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 617.9310344827586,
+            "time_end": 765.0574712643678
+         },
+         {
+            "word": "。",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 765.0574712643678,
+            "time_end": 941.6091954022988
+         }
+      ]
+   }
+]

@@ -1,0 +1,452 @@
+{
+ "v01_gran_a": {
+  "role": "gran",
+  "text": "就剩这么些了……",
+  "ms": 3100,
+  "file": "audio/vo/v01_gran_a.wav",
+  "start_ms": 120,
+  "end_ms": 2680,
+  "full_ms": 3100,
+  "speech_ms": 2560
+ },
+ "v01_gran_b": {
+  "role": "gran",
+  "text": "你可得对它好点儿啊。",
+  "ms": 3099,
+  "file": "audio/vo/v01_gran_b.wav",
+  "start_ms": 270,
+  "end_ms": 2730,
+  "full_ms": 3100,
+  "speech_ms": 2460
+ },
+ "v02_01_int": {
+  "role": "int",
+  "text": "名字。",
+  "ms": 789,
+  "file": "audio/vo/v02_01_int.wav",
+  "start_ms": 170,
+  "end_ms": 550,
+  "full_ms": 789,
+  "speech_ms": 380
+ },
+ "v02_02_kid": {
+  "role": "kid",
+  "text": "……没有。",
+  "ms": 638,
+  "file": "audio/vo/v02_02_kid.wav",
+  "start_ms": 100,
+  "end_ms": 500,
+  "full_ms": 639,
+  "speech_ms": 400
+ },
+ "v02_03_int": {
+  "role": "int",
+  "text": "没有？",
+  "ms": 708,
+  "file": "audio/vo/v02_03_int.wav",
+  "start_ms": 190,
+  "end_ms": 490,
+  "full_ms": 708,
+  "speech_ms": 300
+ },
+ "v02_04_kid": {
+  "role": "kid",
+  "text": "老太太管我叫黄毛。",
+  "ms": 1509,
+  "file": "audio/vo/v02_04_kid.wav",
+  "start_ms": 130,
+  "end_ms": 1360,
+  "full_ms": 1509,
+  "speech_ms": 1230
+ },
+ "v02_05_kid": {
+  "role": "kid",
+  "text": "不是那种黄毛啊！我可老实了。",
+  "ms": 2700,
+  "file": "audio/vo/v02_05_kid.wav",
+  "start_ms": 270,
+  "end_ms": 2420,
+  "full_ms": 2700,
+  "speech_ms": 2150
+ },
+ "v02_06_int": {
+  "role": "int",
+  "text": "多大？",
+  "ms": 743,
+  "file": "audio/vo/v02_06_int.wav",
+  "start_ms": 170,
+  "end_ms": 520,
+  "full_ms": 743,
+  "speech_ms": 350
+ },
+ "v02_07_kid": {
+  "role": "kid",
+  "text": "今年秋天刚生的。",
+  "ms": 1509,
+  "file": "audio/vo/v02_07_kid.wav",
+  "start_ms": 130,
+  "end_ms": 1340,
+  "full_ms": 1509,
+  "speech_ms": 1210
+ },
+ "v02_08_int": {
+  "role": "int",
+  "text": "这上头写着，你在她家住了四十多年。",
+  "ms": 2635,
+  "file": "audio/vo/v02_08_int.wav",
+  "start_ms": 170,
+  "end_ms": 2380,
+  "full_ms": 2635,
+  "speech_ms": 2210
+ },
+ "v02_09_kid": {
+  "role": "kid",
+  "text": "那是我爸，我爷，我太爷……我们一家子都住那儿，一辈接一辈的。",
+  "ms": 6900,
+  "file": "audio/vo/v02_09_kid.wav",
+  "start_ms": 310,
+  "end_ms": 6610,
+  "full_ms": 6900,
+  "speech_ms": 6300
+ },
+ "v02_10_kid": {
+  "role": "kid",
+  "text": "哎哎哎，拿走拿走！",
+  "ms": 1613,
+  "file": "audio/vo/v02_10_kid.wav",
+  "start_ms": 180,
+  "end_ms": 1380,
+  "full_ms": 1614,
+  "speech_ms": 1200
+ },
+ "v02_11_int": {
+  "role": "int",
+  "text": "一杯水，你怕什么。",
+  "ms": 1927,
+  "file": "audio/vo/v02_11_int.wav",
+  "start_ms": 190,
+  "end_ms": 1630,
+  "full_ms": 1927,
+  "speech_ms": 1440
+ },
+ "v02_12_kid": {
+  "role": "kid",
+  "text": "我沾水就得开口！开了口就收不回去了！",
+  "ms": 3262,
+  "file": "audio/vo/v02_12_kid.wav",
+  "start_ms": 210,
+  "end_ms": 3020,
+  "full_ms": 3262,
+  "speech_ms": 2810
+ },
+ "v02_13_int": {
+  "role": "int",
+  "text": "……家里还有什么亲戚？",
+  "ms": 1381,
+  "file": "audio/vo/v02_13_int.wav",
+  "start_ms": 160,
+  "end_ms": 1160,
+  "full_ms": 1382,
+  "speech_ms": 1000
+ },
+ "v02_14_kid": {
+  "role": "kid",
+  "text": "有个远房的。路边上、墙根底下，到处都是，你肯定见过。",
+  "ms": 5800,
+  "file": "audio/vo/v02_14_kid.wav",
+  "start_ms": 100,
+  "end_ms": 5460,
+  "full_ms": 5800,
+  "speech_ms": 5360
+ },
+ "v02_15_int": {
+  "role": "int",
+  "text": "叫什么？",
+  "ms": 789,
+  "file": "audio/vo/v02_15_int.wav",
+  "start_ms": 150,
+  "end_ms": 540,
+  "full_ms": 789,
+  "speech_ms": 390
+ },
+ "v02_16_kid": {
+  "role": "kid",
+  "text": "不告诉你。说出来丢人。",
+  "ms": 1904,
+  "file": "audio/vo/v02_16_kid.wav",
+  "start_ms": 180,
+  "end_ms": 1700,
+  "full_ms": 1904,
+  "speech_ms": 1520
+ },
+ "v02_17_int": {
+  "role": "int",
+  "text": "(sighs)有什么特长？",
+  "ms": 1729,
+  "file": "audio/vo/v02_17_int.wav",
+  "start_ms": 170,
+  "end_ms": 1520,
+  "full_ms": 1730,
+  "speech_ms": 1350
+ },
+ "v02_18_kid": {
+  "role": "kid",
+  "text": "耐旱，不挑地，石头缝里都能活。还有……熬粥特别香。",
+  "ms": 4481,
+  "file": "audio/vo/v02_18_kid.wav",
+  "start_ms": 200,
+  "end_ms": 4240,
+  "full_ms": 4481,
+  "speech_ms": 4040
+ },
+ "v02_19_int": {
+  "role": "int",
+  "text": "知道为什么带你来吗？",
+  "ms": 1300,
+  "file": "audio/vo/v02_19_int.wav",
+  "start_ms": 160,
+  "end_ms": 990,
+  "full_ms": 1300,
+  "speech_ms": 830
+ },
+ "v02_20_kid": {
+  "role": "kid",
+  "text": "不知道……我又不值钱。",
+  "ms": 2089,
+  "file": "audio/vo/v02_20_kid.wav",
+  "start_ms": 250,
+  "end_ms": 1850,
+  "full_ms": 2090,
+  "speech_ms": 1600
+ },
+ "v02_21_int": {
+  "role": "int",
+  "text": "最后一个问题。你到底多大了？",
+  "ms": 2368,
+  "file": "audio/vo/v02_21_int.wav",
+  "start_ms": 170,
+  "end_ms": 2100,
+  "full_ms": 2368,
+  "speech_ms": 1930
+ },
+ "v02_22_kid": {
+  "role": "kid",
+  "text": "你是问我，还是问我们？",
+  "ms": 2449,
+  "file": "audio/vo/v02_22_kid.wav",
+  "start_ms": 150,
+  "end_ms": 2230,
+  "full_ms": 2450,
+  "speech_ms": 2080
+ },
+ "v02_23_int": {
+  "role": "int",
+  "text": "你们。",
+  "ms": 661,
+  "file": "audio/vo/v02_23_int.wav",
+  "start_ms": 130,
+  "end_ms": 440,
+  "full_ms": 662,
+  "speech_ms": 310
+ },
+ "v02_24_kid": {
+  "role": "kid",
+  "text": "……一万年吧。差不多。",
+  "ms": 3300,
+  "file": "audio/vo/v02_24_kid.wav",
+  "start_ms": 90,
+  "end_ms": 2940,
+  "full_ms": 3300,
+  "speech_ms": 2850
+ },
+ "v02_24_old": {
+  "role": "old",
+  "text": "……一万年吧。差不多。",
+  "ms": 2867,
+  "file": "audio/vo/v02_24_old.wav",
+  "start_ms": 170,
+  "end_ms": 2650,
+  "full_ms": 2868,
+  "speech_ms": 2480
+ },
+ "v03_1": {
+  "role": "old",
+  "text": "那会儿我还是根野草，一熟就往地上掉。有人专掐那些熟了还不掉的。",
+  "ms": 6942,
+  "file": "audio/vo/v03_1.wav",
+  "start_ms": 180,
+  "end_ms": 6720,
+  "full_ms": 6943,
+  "speech_ms": 6540
+ },
+ "v03_2": {
+  "role": "old",
+  "text": "后来就住进罐子里了。这习惯，我们家留到了今天。",
+  "ms": 3831,
+  "file": "audio/vo/v03_2.wav",
+  "start_ms": 160,
+  "end_ms": 3580,
+  "full_ms": 3831,
+  "speech_ms": 3420
+ },
+ "v03_3": {
+  "role": "old",
+  "text": "他们在骨头上刻我。刻得还挺像，熟透的谷子，都低着头。",
+  "ms": 6548,
+  "file": "audio/vo/v03_3.wav",
+  "start_ms": 170,
+  "end_ms": 6360,
+  "full_ms": 6548,
+  "speech_ms": 6190
+ },
+ "v03_4": {
+  "role": "old",
+  "text": "有人写诗，说我是老天爷赏的。我也没好意思吭声。",
+  "ms": 5120,
+  "file": "audio/vo/v03_4.wav",
+  "start_ms": 160,
+  "end_ms": 4870,
+  "full_ms": 5120,
+  "speech_ms": 4710
+ },
+ "v03_5": {
+  "role": "old",
+  "text": "贾思勰把怎么挑我写下来了：挑好穗子，割下来，挂高。后来的人照着做了一千多年。",
+  "ms": 9229,
+  "file": "audio/vo/v03_5.wav",
+  "start_ms": 140,
+  "end_ms": 9070,
+  "full_ms": 9230,
+  "speech_ms": 8930
+ },
+ "v03_6": {
+  "role": "old",
+  "text": "这句你们都会背吧？背的时候，想过那一粒是打哪来的吗？",
+  "ms": 5387,
+  "file": "audio/vo/v03_6.wav",
+  "start_ms": 140,
+  "end_ms": 5140,
+  "full_ms": 5387,
+  "speech_ms": 5000
+ },
+ "v03_7": {
+  "role": "old",
+  "text": "老宋写书，粮食放第一篇，珠宝放最后一篇。这人，我喜欢。",
+  "ms": 7100,
+  "file": "audio/vo/v03_7.wav",
+  "start_ms": 150,
+  "end_ms": 6760,
+  "full_ms": 7100,
+  "speech_ms": 6610
+ },
+ "v03_8": {
+  "role": "old",
+  "text": "小米加步枪。那几年……我是真扛过事儿的。",
+  "ms": 3947,
+  "file": "audio/vo/v03_8.wav",
+  "start_ms": 140,
+  "end_ms": 3740,
+  "full_ms": 3947,
+  "speech_ms": 3600
+ },
+ "v04_old": {
+  "role": "old",
+  "text": "……谁让你们查的。",
+  "ms": 1404,
+  "file": "audio/vo/v04_old.wav",
+  "start_ms": 130,
+  "end_ms": 1140,
+  "full_ms": 1405,
+  "speech_ms": 1010
+ },
+ "v05_01_old": {
+  "role": "old",
+  "text": "那你到底……带我来干啥？",
+  "ms": 2054,
+  "file": "audio/vo/v05_01_old.wav",
+  "start_ms": 150,
+  "end_ms": 1900,
+  "full_ms": 2055,
+  "speech_ms": 1750
+ },
+ "v05_02_man": {
+  "role": "man",
+  "text": "(sighs)那老太太八十三了。儿子们早不种这个了。",
+  "ms": 5600,
+  "file": "audio/vo/v05_02_man.wav",
+  "start_ms": 270,
+  "end_ms": 5270,
+  "full_ms": 5600,
+  "speech_ms": 5000
+ },
+ "v05_03_man": {
+  "role": "man",
+  "text": "哪天她不在了，坛子一收拾，你们就全没了。",
+  "ms": 4600,
+  "file": "audio/vo/v05_03_man.wav",
+  "start_ms": 340,
+  "end_ms": 4260,
+  "full_ms": 4600,
+  "speech_ms": 3920
+ },
+ "v05_04_man": {
+  "role": "man",
+  "text": "抓你干啥。接你来的。",
+  "ms": 2300,
+  "file": "audio/vo/v05_04_man.wav",
+  "start_ms": 310,
+  "end_ms": 2030,
+  "full_ms": 2300,
+  "speech_ms": 1720
+ },
+ "v05_05_old": {
+  "role": "old",
+  "text": "后来隔壁袋子跟我说，这老头干这个快四十年了。黑龙江到海南，一家一家敲门，就为讨一把种子。",
+  "ms": 9845,
+  "file": "audio/vo/v05_05_old.wav",
+  "start_ms": 170,
+  "end_ms": 9600,
+  "full_ms": 9845,
+  "speech_ms": 9430
+ },
+ "v05_06_old": {
+  "role": "old",
+  "text": "房梁换成了铁架子，肉眼换成了测序仪。弯腰那一下，一直没变。",
+  "ms": 6466,
+  "file": "audio/vo/v05_06_old.wav",
+  "start_ms": 230,
+  "end_ms": 6240,
+  "full_ms": 6467,
+  "speech_ms": 6010
+ },
+ "v05_07_old": {
+  "role": "old",
+  "text": "都说好种子是老天爷赏的。我活了一万年，老天爷一回没见着。见着的，全是这样的人。",
+  "ms": 9032,
+  "file": "audio/vo/v05_07_old.wav",
+  "start_ms": 210,
+  "end_ms": 8870,
+  "full_ms": 9033,
+  "speech_ms": 8660
+ },
+ "v05_08_old": {
+  "role": "old",
+  "text": "……行吧。",
+  "ms": 1000,
+  "file": "audio/vo/v05_08_old.wav",
+  "start_ms": 230,
+  "end_ms": 600,
+  "full_ms": 1000,
+  "speech_ms": 370
+ },
+ "v05_09_kid": {
+  "role": "kid",
+  "text": "我招。",
+  "ms": 835,
+  "file": "audio/vo/v05_09_kid.wav",
+  "start_ms": 150,
+  "end_ms": 640,
+  "full_ms": 836,
+  "speech_ms": 490
+ }
+}

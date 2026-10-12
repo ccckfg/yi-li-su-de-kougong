@@ -1,0 +1,215 @@
+[
+   {
+      "text": "(sighs)那老太太八十三了。儿子们早不种这个了。",
+      "pronounce_text": "(sighs)那老太太八十三了。儿子们早不种这个了。",
+      "time_begin": 0.0,
+      "time_end": 5400.0,
+      "text_begin": 0,
+      "text_end": 26,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 26,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "(sighs)",
+            "word_begin": 0,
+            "word_end": 7,
+            "pronounce_word": "(sighs)",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 7,
+            "time_begin": 41.83006535947712,
+            "time_end": 376.4705882352941
+         },
+         {
+            "word": "那",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "那",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 376.4705882352941,
+            "time_end": 1464.0522875816991
+         },
+         {
+            "word": "老",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "老",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1464.0522875816991,
+            "time_end": 1589.5424836601305
+         },
+         {
+            "word": "太",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "太",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1589.5424836601305,
+            "time_end": 1756.862745098039
+         },
+         {
+            "word": "太",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "太",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1756.862745098039,
+            "time_end": 1924.1830065359475
+         },
+         {
+            "word": "八",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "八",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 1924.1830065359475,
+            "time_end": 2091.5032679738565
+         },
+         {
+            "word": "十",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "十",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 2091.5032679738565,
+            "time_end": 2300.653594771242
+         },
+         {
+            "word": "三",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "三",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 2300.653594771242,
+            "time_end": 2426.1437908496737
+         },
+         {
+            "word": "了",
+            "word_begin": 14,
+            "word_end": 15,
+            "pronounce_word": "了",
+            "pronounce_word_begin": 14,
+            "pronounce_word_end": 15,
+            "time_begin": 2426.1437908496737,
+            "time_end": 2677.1241830065355
+         },
+         {
+            "word": "。",
+            "word_begin": 15,
+            "word_end": 16,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 15,
+            "pronounce_word_end": 16,
+            "time_begin": 2677.1241830065355,
+            "time_end": 2718.954248366013
+         },
+         {
+            "word": "儿",
+            "word_begin": 16,
+            "word_end": 17,
+            "pronounce_word": "儿",
+            "pronounce_word_begin": 16,
+            "pronounce_word_end": 17,
+            "time_begin": 2718.954248366013,
+            "time_end": 3764.705882352941
+         },
+         {
+            "word": "子",
+            "word_begin": 17,
+            "word_end": 18,
+            "pronounce_word": "子",
+            "pronounce_word_begin": 17,
+            "pronounce_word_end": 18,
+            "time_begin": 3764.705882352941,
+            "time_end": 4015.6862745098038
+         },
+         {
+            "word": "们",
+            "word_begin": 18,
+            "word_end": 19,
+            "pronounce_word": "们",
+            "pronounce_word_begin": 18,
+            "pronounce_word_end": 19,
+            "time_begin": 4015.6862745098038,
+            "time_end": 4099.346405228758
+         },
+         {
+            "word": "早",
+            "word_begin": 19,
+            "word_end": 20,
+            "pronounce_word": "早",
+            "pronounce_word_begin": 19,
+            "pronounce_word_end": 20,
+            "time_begin": 4099.346405228758,
+            "time_end": 4224.836601307189
+         },
+         {
+            "word": "不",
+            "word_begin": 20,
+            "word_end": 21,
+            "pronounce_word": "不",
+            "pronounce_word_begin": 20,
+            "pronounce_word_end": 21,
+            "time_begin": 4224.836601307189,
+            "time_end": 4433.986928104576
+         },
+         {
+            "word": "种",
+            "word_begin": 21,
+            "word_end": 22,
+            "pronounce_word": "种",
+            "pronounce_word_begin": 21,
+            "pronounce_word_end": 22,
+            "time_begin": 4433.986928104576,
+            "time_end": 4643.137254901961
+         },
+         {
+            "word": "这",
+            "word_begin": 22,
+            "word_end": 23,
+            "pronounce_word": "这",
+            "pronounce_word_begin": 22,
+            "pronounce_word_end": 23,
+            "time_begin": 4643.137254901961,
+            "time_end": 4810.457516339869
+         },
+         {
+            "word": "个",
+            "word_begin": 23,
+            "word_end": 24,
+            "pronounce_word": "个",
+            "pronounce_word_begin": 23,
+            "pronounce_word_end": 24,
+            "time_begin": 4810.457516339869,
+            "time_end": 4977.777777777777
+         },
+         {
+            "word": "了",
+            "word_begin": 24,
+            "word_end": 25,
+            "pronounce_word": "了",
+            "pronounce_word_begin": 24,
+            "pronounce_word_end": 25,
+            "time_begin": 4977.777777777777,
+            "time_end": 5103.267973856209
+         },
+         {
+            "word": "。",
+            "word_begin": 25,
+            "word_end": 26,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 25,
+            "pronounce_word_end": 26,
+            "time_begin": 5103.267973856209,
+            "time_end": 5228.75816993464
+         }
+      ]
+   }
+]

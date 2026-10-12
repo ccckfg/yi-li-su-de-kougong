@@ -1,0 +1,135 @@
+[
+   {
+      "text": "那你到底……带我来干啥？",
+      "pronounce_text": "那你到底……带我来干啥？",
+      "time_begin": 0.0,
+      "time_end": 1815.6462585034012,
+      "text_begin": 0,
+      "text_end": 12,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 12,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "那",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "那",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 35.55555555555556,
+            "time_end": 177.77777777777777
+         },
+         {
+            "word": "你",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "你",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 177.77777777777777,
+            "time_end": 320.0
+         },
+         {
+            "word": "到",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "到",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 320.0,
+            "time_end": 426.6666666666667
+         },
+         {
+            "word": "底",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "底",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 426.6666666666667,
+            "time_end": 568.8888888888889
+         },
+         {
+            "word": "…",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 568.8888888888889,
+            "time_end": 711.1111111111111
+         },
+         {
+            "word": "…",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 711.1111111111111,
+            "time_end": 782.2222222222222
+         },
+         {
+            "word": "带",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "带",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 782.2222222222222,
+            "time_end": 1102.2222222222224
+         },
+         {
+            "word": "我",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1102.2222222222224,
+            "time_end": 1208.888888888889
+         },
+         {
+            "word": "来",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "来",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1208.888888888889,
+            "time_end": 1280.0
+         },
+         {
+            "word": "干",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "干",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1280.0,
+            "time_end": 1386.6666666666667
+         },
+         {
+            "word": "啥",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "啥",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1386.6666666666667,
+            "time_end": 1493.3333333333335
+         },
+         {
+            "word": "？",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "？",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 1493.3333333333335,
+            "time_end": 1528.888888888889
+         }
+      ]
+   }
+]

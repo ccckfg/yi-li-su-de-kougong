@@ -1,0 +1,31 @@
+{
+  "stillsDir": "../../film/public/stills",
+  "outputDir": "../../film/public/depth",
+  "workDir": ".work",
+  "cacheDir": ".cache",
+  "stills": ["S02", "S15", "S20", "S21", "S22", "S27"],
+  "inputExt": ".png",
+  "depthSuffix": "_depth.png",
+  "previewSuffix": "_depth_preview.jpg",
+  "pipelineTask": "depth-estimation",
+  "models": [
+    "onnx-community/depth-anything-v2-base",
+    "onnx-community/depth-anything-v2-small"
+  ],
+  "dtype": "fp32",
+  "hosts": ["https://huggingface.co/", "https://hf-mirror.com/"],
+  "download": {
+    "stallTimeoutSec": 60,
+    "totalTimeoutSec": 900
+  },
+  "python": "python",
+  "postprocess": {
+    "guidedFilter": { "radius": 8, "eps": 0.002 },
+    "previewWidth": 640,
+    "previewQuality": 90
+  },
+  "verify": {
+    "minSpan": 0.5,
+    "meanRange": [0.05, 0.95]
+  }
+}

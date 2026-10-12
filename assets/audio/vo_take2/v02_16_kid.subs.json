@@ -1,0 +1,125 @@
+[
+   {
+      "text": "不告诉你。说出来丢人。",
+      "pronounce_text": "不告诉你。说出来丢人。",
+      "time_begin": 0.0,
+      "time_end": 1804.0362811791383,
+      "text_begin": 0,
+      "text_end": 11,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 11,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "不",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "不",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 32.32323232323232,
+            "time_end": 226.2626262626262
+         },
+         {
+            "word": "告",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "告",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 226.2626262626262,
+            "time_end": 323.2323232323232
+         },
+         {
+            "word": "诉",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "诉",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 323.2323232323232,
+            "time_end": 484.8484848484848
+         },
+         {
+            "word": "你",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "你",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 484.8484848484848,
+            "time_end": 614.1414141414141
+         },
+         {
+            "word": "。",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 614.1414141414141,
+            "time_end": 678.7878787878788
+         },
+         {
+            "word": "说",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "说",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 678.7878787878788,
+            "time_end": 969.6969696969696
+         },
+         {
+            "word": "出",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "出",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 969.6969696969696,
+            "time_end": 1131.3131313131312
+         },
+         {
+            "word": "来",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "来",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1131.3131313131312,
+            "time_end": 1228.2828282828282
+         },
+         {
+            "word": "丢",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "丢",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1228.2828282828282,
+            "time_end": 1357.5757575757575
+         },
+         {
+            "word": "人",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "人",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1357.5757575757575,
+            "time_end": 1486.8686868686866
+         },
+         {
+            "word": "。",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1486.8686868686866,
+            "time_end": 1648.484848484848
+         }
+      ]
+   }
+]

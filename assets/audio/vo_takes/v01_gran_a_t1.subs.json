@@ -1,0 +1,95 @@
+[
+   {
+      "text": "就剩这么些了……",
+      "pronounce_text": "就剩这么些了……",
+      "time_begin": 0.0,
+      "time_end": 1606.6666666666667,
+      "text_begin": 0,
+      "text_end": 8,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 8,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "就",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "就",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 44.91228070175438,
+            "time_end": 179.64912280701753
+         },
+         {
+            "word": "剩",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "剩",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 179.64912280701753,
+            "time_end": 404.2105263157895
+         },
+         {
+            "word": "这",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "这",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 404.2105263157895,
+            "time_end": 583.859649122807
+         },
+         {
+            "word": "么",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "么",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 583.859649122807,
+            "time_end": 763.5087719298245
+         },
+         {
+            "word": "些",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "些",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 763.5087719298245,
+            "time_end": 943.1578947368422
+         },
+         {
+            "word": "了",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "了",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 943.1578947368422,
+            "time_end": 1167.719298245614
+         },
+         {
+            "word": "…",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1167.719298245614,
+            "time_end": 1347.3684210526317
+         },
+         {
+            "word": "…",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1347.3684210526317,
+            "time_end": 1392.2807017543862
+         }
+      ]
+   }
+]

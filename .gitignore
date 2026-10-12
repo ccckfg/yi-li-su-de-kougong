@@ -1,0 +1,21 @@
+# secrets
+.env
+.env.*
+
+# dependencies, builds, renders
+node_modules/
+build/
+out/
+renders/
+logs/
+
+# tool caches
+__pycache__/
+*.pyc
+tools/depth/.work/
+tools/depth/.cache/
+.herdr-orch/
+
+# OS / editor
+.DS_Store
+Thumbs.db

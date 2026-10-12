@@ -1,0 +1,30 @@
+{
+ "_style": {},
+ "shots": [
+  {
+   "shot": "tex_desk",
+   "style": "none",
+   "prompt": "Top-down orthographic photograph of an old dark walnut wooden desk top, filling the entire frame edge to edge: flat, perfectly even diffuse lighting, no perspective, no objects, no shadows, no vignette. Worn dark-brown varnish with fine scratches and scuffs, faint pale rings from cups, small dents, subtle wood grain running horizontally across the frame, slightly lighter wear patches. Photorealistic texture, very high detail, 16:9."
+  },
+  {
+   "shot": "tex_kraft",
+   "style": "none",
+   "prompt": "Flat scan of brown kraft paper filling the entire frame edge to edge: even diffuse lighting, no shadows, visible paper fibers, soft creases and wrinkles, faint water stains and finger smudges, slightly darker edges from age. No text, no letters, no objects. Photorealistic texture, high detail, 16:9."
+  },
+  {
+   "shot": "tex_paper",
+   "style": "none",
+   "prompt": "Flat scan of old yellowed writing paper filling the entire frame edge to edge: even diffuse lighting, no shadows, faint foxing spots, fine paper fibers, slight discoloration toward the edges, very subtle creases. Completely blank: no text, no lines, no letters. Photorealistic texture, high detail, 16:9."
+  },
+  {
+   "shot": "tex_knit",
+   "style": "none",
+   "prompt": "Close-up flat photograph of a worn grey wool sweater knit fabric filling the entire frame edge to edge: even diffuse lighting, no shadows, stockinette knit stitches clearly visible, a few loose fibers and slight pilling. Photorealistic texture, high detail, 16:9."
+  },
+  {
+   "shot": "tex_chairwood",
+   "style": "none",
+   "prompt": "Flat even-lit close-up photograph of old worn elm wood filling the entire frame edge to edge: chipped dark lacquer, exposed lighter grain on the worn edges, long vertical wood grain. No objects, no shadows. Photorealistic texture, high detail, 16:9."
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+[
+   {
+      "text": "……家里还有什么亲戚？",
+      "pronounce_text": "……家里还有什么亲戚？",
+      "time_begin": 0.0,
+      "time_end": 1641.4965986394557,
+      "text_begin": 0,
+      "text_end": 11,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 11,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "…",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 37.10144927536232,
+            "time_end": 111.30434782608697
+         },
+         {
+            "word": "…",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 111.30434782608697,
+            "time_end": 148.40579710144928
+         },
+         {
+            "word": "家",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "家",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 148.40579710144928,
+            "time_end": 185.5072463768116
+         },
+         {
+            "word": "里",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "里",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 185.5072463768116,
+            "time_end": 333.9130434782609
+         },
+         {
+            "word": "还",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "还",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 333.9130434782609,
+            "time_end": 593.6231884057971
+         },
+         {
+            "word": "有",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "有",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 593.6231884057971,
+            "time_end": 1075.9420289855075
+         },
+         {
+            "word": "什",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "什",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1075.9420289855075,
+            "time_end": 1150.144927536232
+         },
+         {
+            "word": "么",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "么",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1150.144927536232,
+            "time_end": 1224.3478260869567
+         },
+         {
+            "word": "亲",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "亲",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1224.3478260869567,
+            "time_end": 1298.5507246376812
+         },
+         {
+            "word": "戚",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "戚",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1298.5507246376812,
+            "time_end": 1521.1594202898552
+         },
+         {
+            "word": "？",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "？",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1521.1594202898552,
+            "time_end": 1558.2608695652175
+         }
+      ]
+   }
+]

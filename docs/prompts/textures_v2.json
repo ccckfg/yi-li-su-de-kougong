@@ -1,0 +1,15 @@
+{
+ "_style": {},
+ "shots": [
+  {
+   "shot": "tex_soil",
+   "style": "none",
+   "prompt": "Top-down orthographic photograph of freshly tilled dark brown loam soil filling the entire frame edge to edge, slightly moist, fine crumbs and small clods, a few tiny pebbles and bits of dry straw, flat even diffuse daylight, no shadows, no objects, no plants. Photorealistic texture, very high detail, 16:9."
+  },
+  {
+   "shot": "tex_soil_section",
+   "style": "none",
+   "prompt": "Macro photograph through the glass wall of a soil observation box: a cross-section of moist dark brown soil filling the frame edge to edge — crumbly aggregates, fine roots absent, tiny air pockets, a few sand grains glinting, soft diffused light from above, shallow depth of field, nothing else. Photorealistic, very high detail, 16:9, no text."
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+[
+   {
+      "text": "你们。",
+      "pronounce_text": "你们。",
+      "time_begin": 0.0,
+      "time_end": 747.5283446712018,
+      "text_begin": 0,
+      "text_end": 3,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 3,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "你",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "你",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 44.91228070175438,
+            "time_end": 224.56140350877192
+         },
+         {
+            "word": "们",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "们",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 224.56140350877192,
+            "time_end": 359.29824561403507
+         },
+         {
+            "word": "。",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 359.29824561403507,
+            "time_end": 494.03508771929825
+         }
+      ]
+   }
+]

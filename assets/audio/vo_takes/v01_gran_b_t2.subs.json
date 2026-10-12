@@ -1,0 +1,115 @@
+[
+   {
+      "text": "你可得对它好点儿啊。",
+      "pronounce_text": "你可得对它好点儿啊。",
+      "time_begin": 0.0,
+      "time_end": 2628.344671201814,
+      "text_begin": 0,
+      "text_end": 10,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 10,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "你",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "你",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 44.91228070175438,
+            "time_end": 269.4736842105263
+         },
+         {
+            "word": "可",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "可",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 269.4736842105263,
+            "time_end": 449.12280701754383
+         },
+         {
+            "word": "得",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "得",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 449.12280701754383,
+            "time_end": 808.421052631579
+         },
+         {
+            "word": "对",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "对",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 808.421052631579,
+            "time_end": 1032.982456140351
+         },
+         {
+            "word": "它",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "它",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 1032.982456140351,
+            "time_end": 1257.5438596491226
+         },
+         {
+            "word": "好",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "好",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 1257.5438596491226,
+            "time_end": 1482.1052631578948
+         },
+         {
+            "word": "点",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "点",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1482.1052631578948,
+            "time_end": 1886.3157894736844
+         },
+         {
+            "word": "儿",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "儿",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1886.3157894736844,
+            "time_end": 2065.964912280702
+         },
+         {
+            "word": "啊",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "啊",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 2065.964912280702,
+            "time_end": 2290.5263157894733
+         },
+         {
+            "word": "。",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 2290.5263157894733,
+            "time_end": 2515.0877192982452
+         }
+      ]
+   }
+]

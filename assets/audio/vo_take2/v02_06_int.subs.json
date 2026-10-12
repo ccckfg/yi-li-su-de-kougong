@@ -1,0 +1,45 @@
+[
+   {
+      "text": "多大？",
+      "pronounce_text": "多大？",
+      "time_begin": 0.0,
+      "time_end": 643.0385487528345,
+      "text_begin": 0,
+      "text_end": 3,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 3,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "多",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "多",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 39.50617283950617,
+            "time_end": 197.53086419753083
+         },
+         {
+            "word": "大",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "大",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 197.53086419753083,
+            "time_end": 355.55555555555554
+         },
+         {
+            "word": "？",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "？",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 355.55555555555554,
+            "time_end": 395.06172839506166
+         }
+      ]
+   }
+]

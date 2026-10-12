@@ -1,0 +1,215 @@
+[
+   {
+      "text": "小米加步枪。那几年……我是真扛过事儿的。",
+      "pronounce_text": "小米加步枪。那几年……我是真扛过事儿的。",
+      "time_begin": 0.0,
+      "time_end": 4056.3718820861677,
+      "text_begin": 0,
+      "text_end": 20,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 20,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "小",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "小",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 35.55555555555556,
+            "time_end": 177.77777777777777
+         },
+         {
+            "word": "米",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "米",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 177.77777777777777,
+            "time_end": 462.22222222222223
+         },
+         {
+            "word": "加",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "加",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 462.22222222222223,
+            "time_end": 604.4444444444445
+         },
+         {
+            "word": "步",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "步",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 604.4444444444445,
+            "time_end": 746.6666666666667
+         },
+         {
+            "word": "枪",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "枪",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 746.6666666666667,
+            "time_end": 888.888888888889
+         },
+         {
+            "word": "。",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 888.888888888889,
+            "time_end": 960.0
+         },
+         {
+            "word": "那",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "那",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 960.0,
+            "time_end": 1280.0
+         },
+         {
+            "word": "几",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "几",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1280.0,
+            "time_end": 1991.1111111111109
+         },
+         {
+            "word": "年",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "年",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1991.1111111111109,
+            "time_end": 2168.8888888888887
+         },
+         {
+            "word": "…",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 2168.8888888888887,
+            "time_end": 2382.222222222222
+         },
+         {
+            "word": "…",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 2382.222222222222,
+            "time_end": 2417.777777777778
+         },
+         {
+            "word": "我",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2417.777777777778,
+            "time_end": 2773.3333333333335
+         },
+         {
+            "word": "是",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "是",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 2773.3333333333335,
+            "time_end": 2951.111111111111
+         },
+         {
+            "word": "真",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "真",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 2951.111111111111,
+            "time_end": 3093.333333333333
+         },
+         {
+            "word": "扛",
+            "word_begin": 14,
+            "word_end": 15,
+            "pronounce_word": "扛",
+            "pronounce_word_begin": 14,
+            "pronounce_word_end": 15,
+            "time_begin": 3093.333333333333,
+            "time_end": 3271.111111111111
+         },
+         {
+            "word": "过",
+            "word_begin": 15,
+            "word_end": 16,
+            "pronounce_word": "过",
+            "pronounce_word_begin": 15,
+            "pronounce_word_end": 16,
+            "time_begin": 3271.111111111111,
+            "time_end": 3448.8888888888887
+         },
+         {
+            "word": "事",
+            "word_begin": 16,
+            "word_end": 17,
+            "pronounce_word": "事",
+            "pronounce_word_begin": 16,
+            "pronounce_word_end": 17,
+            "time_begin": 3448.8888888888887,
+            "time_end": 3555.555555555556
+         },
+         {
+            "word": "儿",
+            "word_begin": 17,
+            "word_end": 18,
+            "pronounce_word": "儿",
+            "pronounce_word_begin": 17,
+            "pronounce_word_end": 18,
+            "time_begin": 3555.555555555556,
+            "time_end": 3626.666666666666
+         },
+         {
+            "word": "的",
+            "word_begin": 18,
+            "word_end": 19,
+            "pronounce_word": "的",
+            "pronounce_word_begin": 18,
+            "pronounce_word_end": 19,
+            "time_begin": 3626.666666666666,
+            "time_end": 3662.2222222222226
+         },
+         {
+            "word": "。",
+            "word_begin": 19,
+            "word_end": 20,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 19,
+            "pronounce_word_end": 20,
+            "time_begin": 3662.2222222222226,
+            "time_end": 3840.0
+         }
+      ]
+   }
+]

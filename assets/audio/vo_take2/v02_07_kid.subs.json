@@ -1,0 +1,95 @@
+[
+   {
+      "text": "今年秋天刚生的。",
+      "pronounce_text": "今年秋天刚生的。",
+      "time_begin": 0.0,
+      "time_end": 1409.2970521541952,
+      "text_begin": 0,
+      "text_end": 8,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 8,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "今",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "今",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 32.32323232323232,
+            "time_end": 161.6161616161616
+         },
+         {
+            "word": "年",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "年",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 161.6161616161616,
+            "time_end": 323.2323232323232
+         },
+         {
+            "word": "秋",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "秋",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 323.2323232323232,
+            "time_end": 484.8484848484848
+         },
+         {
+            "word": "天",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "天",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 484.8484848484848,
+            "time_end": 678.7878787878788
+         },
+         {
+            "word": "刚",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "刚",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 678.7878787878788,
+            "time_end": 840.4040404040403
+         },
+         {
+            "word": "生",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "生",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 840.4040404040403,
+            "time_end": 1002.0202020202021
+         },
+         {
+            "word": "的",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "的",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1002.0202020202021,
+            "time_end": 1034.3434343434342
+         },
+         {
+            "word": "。",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1034.3434343434342,
+            "time_end": 1292.9292929292928
+         }
+      ]
+   }
+]

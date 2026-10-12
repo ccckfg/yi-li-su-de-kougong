@@ -1,0 +1,25 @@
+{
+ "_style": {
+  "warm_real": "Cinematic film still, shot on 35mm Kodak Vision3 500T, visible fine film grain, low-saturation warm grey palette, soft natural light, shallow depth of field, photorealistic, restrained and quiet mood. No text, no letters, no watermark, no logo. No visible face; any person is seen from behind, in silhouette, or only as hands.",
+  "noir": "Black-and-amber film noir still, lit only by one old desk lamp: a warm tungsten pool of light on the desk falling off into deep black, high contrast, shallow depth of field, 35mm film grain, photorealistic. No text, no letters, no watermark. No visible face.",
+  "old_man_hands": "an old man's hands with age spots and thick knuckles, cuffs of a worn grey wool sweater, an old stainless-steel-band mechanical wristwatch on the LEFT wrist",
+  "old_woman_hands": "an old peasant woman's hands with cracked weathered skin, cuffs of a dark-blue coarse cotton padded jacket",
+  "lamp": "an old brass banker's desk lamp with a green glass shade",
+  "envelope": "an old kraft-paper envelope, top folded over twice, faint illegible pencil marks on it",
+  "jar": "a dark-brown coarse stoneware jar, its mouth covered by an upside-down white bowl with a blue rim"
+ },
+ "shots": [
+  {
+   "shot": "S27",
+   "use": "first_frame",
+   "style": "warm_real",
+   "prompt": "Wide shot inside an old agricultural seed storage room at night: on all four walls, grey steel shelving units reaching the ceiling, packed with thousands of small kraft-paper seed envelopes standing in neat rows, each with a small handwritten label. In the middle of the room, an old wooden desk with {lamp} glowing — the only warm light — and a white-haired old man in a worn grey wool sweater sitting at the desk with his back to the camera, his face not visible. Camera slightly above the lamp height, looking down across the room. Deep shadows, warm pool of lamp light, cinematic, quiet."
+  },
+  {
+   "shot": "S32",
+   "use": "first_frame",
+   "style": "warm_real",
+   "prompt": "Inside an agricultural research station drying room: rows of horizontal galvanized metal drying bars, each hung with many bunches of ripe golden foxtail millet heads hanging head-down, thick bristly cylindrical panicles. Strong late-afternoon sunlight streams in from high windows behind the racks: backlight makes the bristles glow with a golden halo, visible shafts of light full of drifting dust. Camera low, looking slightly up along the rows. Quiet, reverent, cinematic. Absolutely no people, no human figures anywhere in the frame — only the racks, the millet, the light and the dust."
+  }
+ ]
+}

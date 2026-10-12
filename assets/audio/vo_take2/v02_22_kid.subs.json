@@ -1,0 +1,125 @@
+[
+   {
+      "text": "你是问我，还是问我们？",
+      "pronounce_text": "你是问我，还是问我们？",
+      "time_begin": 0.0,
+      "time_end": 2349.705215419501,
+      "text_begin": 0,
+      "text_end": 11,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 11,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "你",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "你",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 32.32323232323232,
+            "time_end": 193.93939393939394
+         },
+         {
+            "word": "是",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "是",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 193.93939393939394,
+            "time_end": 323.2323232323232
+         },
+         {
+            "word": "问",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "问",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 323.2323232323232,
+            "time_end": 452.5252525252524
+         },
+         {
+            "word": "我",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 452.5252525252524,
+            "time_end": 614.1414141414141
+         },
+         {
+            "word": "，",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 614.1414141414141,
+            "time_end": 646.4646464646464
+         },
+         {
+            "word": "还",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "还",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 646.4646464646464,
+            "time_end": 1357.5757575757575
+         },
+         {
+            "word": "是",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "是",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1357.5757575757575,
+            "time_end": 1519.1919191919192
+         },
+         {
+            "word": "问",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "问",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1519.1919191919192,
+            "time_end": 1616.1616161616162
+         },
+         {
+            "word": "我",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1616.1616161616162,
+            "time_end": 1777.7777777777776
+         },
+         {
+            "word": "们",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "们",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1777.7777777777776,
+            "time_end": 2068.6868686868684
+         },
+         {
+            "word": "？",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "？",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 2068.6868686868684,
+            "time_end": 2101.010101010101
+         }
+      ]
+   }
+]

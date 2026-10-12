@@ -1,0 +1,206 @@
+{
+  "wind_winter.wav": {
+    "dur": 8.0,
+    "peak_db": -6.0,
+    "rms_db": -25.0,
+    "desc": "冬天黄土高原的风：带通噪声缓慢起伏的呼啸，偶有高频哨音，左右声道去相关，可循环"
+  },
+  "snow_steps.wav": {
+    "dur": 2.4,
+    "peak_db": -3.0,
+    "rms_db": -27.77,
+    "desc": "雪地踩踏四步：每步为密集颗粒噪声爆发的“咯吱”声，间隔约0.55秒"
+  },
+  "snow_window.wav": {
+    "dur": 10.0,
+    "peak_db": -6.0,
+    "rms_db": -21.74,
+    "desc": "窗外下雪：非常轻柔的风，偶有窗框细响"
+  },
+  "spring_breeze.wav": {
+    "dur": 10.0,
+    "peak_db": -6.0,
+    "rms_db": -24.12,
+    "desc": "早春田野的微风，远处一两声克制的鸟鸣"
+  },
+  "room_tone_seedroom.wav": {
+    "dur": 20.0,
+    "peak_db": -6.0,
+    "rms_db": -22.66,
+    "desc": "种子室安静的房间声：极轻的底噪和远处很轻的风，可循环"
+  },
+  "lamp_click.wav": {
+    "dur": 0.6,
+    "peak_db": -3.0,
+    "rms_db": -27.8,
+    "desc": "老式台灯拉链开关“啪”一声：清脆的金属塑料咔嗒，随后很轻的50/100Hz电流嗡声起来又压低"
+  },
+  "lamp_flicker.wav": {
+    "dur": 0.7,
+    "peak_db": -3.0,
+    "rms_db": -23.66,
+    "desc": "台灯电流不稳闪一下：50Hz电流嗡声断续，夹杂小火花噼啪"
+  },
+  "interrogation_bed.wav": {
+    "dur": 60.0,
+    "peak_db": -6.0,
+    "rms_db": -19.18,
+    "desc": "审讯段环境床：35-60Hz缓慢起伏的极低频持续音、很轻的房间底噪和机械钟表滴答（滴、答交替），可循环"
+  },
+  "projector.wav": {
+    "dur": 6.0,
+    "peak_db": -6.0,
+    "rms_db": -18.43,
+    "desc": "老式电影放映机：马达低频嗡、24Hz规律片门咔哒和胶片走带轻微沙沙，可循环"
+  },
+  "lab_tone.wav": {
+    "dur": 10.0,
+    "peak_db": -6.0,
+    "rms_db": -23.83,
+    "desc": "化验段冷电子音：略失谐的高频正弦铺底缓慢起伏，偶有数据“滴”声，立体声"
+  },
+  "scan_sweep.wav": {
+    "dur": 2.0,
+    "peak_db": -3.0,
+    "rms_db": -15.18,
+    "desc": "显微镜/扫描仪推进时的电子扫频：带通噪声加上扬正弦"
+  },
+  "knock_wood.wav": {
+    "dur": 0.9,
+    "peak_db": -3.0,
+    "rms_db": -20.02,
+    "desc": "指节敲老木门两下，间隔约0.38秒，第二下略轻"
+  },
+  "bowl_lift.wav": {
+    "dur": 1.0,
+    "peak_db": -3.0,
+    "rms_db": -24.61,
+    "desc": "粗瓷碗从陶坛口被轻轻掀起：轻微摩擦，随后一下低沉的陶瓷“嗒”"
+  },
+  "glass_slide.wav": {
+    "dur": 1.4,
+    "peak_db": -3.0,
+    "rms_db": -17.96,
+    "desc": "玻璃杯在木桌上被推过去：木面摩擦的低沉噪声，杯中水晃荡的几下低频“咕噜”"
+  },
+  "folder_close.wav": {
+    "dur": 0.6,
+    "peak_db": -3.0,
+    "rms_db": -27.22,
+    "desc": "硬纸档案夹合上：纸板拍合的闷响加一点空气声"
+  },
+  "pen_tap.wav": {
+    "dur": 0.25,
+    "peak_db": -3.0,
+    "rms_db": -28.84,
+    "desc": "钢笔尖轻点纸面：极短的纸面瞬态"
+  },
+  "ink_drop.wav": {
+    "dur": 0.5,
+    "peak_db": -3.0,
+    "rms_db": -26.61,
+    "desc": "一滴墨落在纸上：极轻的“嗒”加很短的湿润尾音"
+  },
+  "paper_flip.wav": {
+    "dur": 0.8,
+    "peak_db": -3.0,
+    "rms_db": -21.24,
+    "desc": "翻一页旧纸：纸张摩擦的宽带噪声扫过，带一点低频“呼”"
+  },
+  "bag_tip.wav": {
+    "dur": 0.7,
+    "peak_db": -3.0,
+    "rms_db": -23.4,
+    "desc": "纸袋歪倒：纸的皱响，随后一下闷闷的落桌声"
+  },
+  "grain_pour_bag.wav": {
+    "dur": 2.8,
+    "peak_db": -3.0,
+    "rms_db": -23.49,
+    "desc": "干谷粒倒进牛皮纸袋的“沙沙”声：大量小颗粒碰撞，密度先大后小，带纸袋的低频轻微鼓动"
+  },
+  "grains_spill.wav": {
+    "dur": 3.0,
+    "peak_db": -3.0,
+    "rms_db": -25.19,
+    "desc": "一小股谷粒倒在木桌上滚开：先是密集倾泻，随后一粒粒在木头上弹跳、滚动，慢慢停止"
+  },
+  "charcoal_scratch.wav": {
+    "dur": 2.0,
+    "peak_db": -3.0,
+    "rms_db": -23.44,
+    "desc": "炭笔在粗纸上快速划线的沙沙声，几道笔触"
+  },
+  "paper_brush.wav": {
+    "dur": 1.5,
+    "peak_db": -3.0,
+    "rms_db": -20.95,
+    "desc": "毛笔在宣纸上运笔，纸张轻响"
+  },
+  "clay_rub.wav": {
+    "dur": 1.2,
+    "peak_db": -3.0,
+    "rms_db": -22.98,
+    "desc": "手指揉搓陶土的湿润摩擦声，低沉"
+  },
+  "knife_carve.wav": {
+    "dur": 1.2,
+    "peak_db": -3.0,
+    "rms_db": -26.45,
+    "desc": "刻刀落在木板上刻一刀：短促硬瞬态加木屑刮擦"
+  },
+  "plaster_crumble.wav": {
+    "dur": 2.0,
+    "peak_db": -3.0,
+    "rms_db": -25.62,
+    "desc": "壁画颜料层剥落掉渣的细碎声"
+  },
+  "bamboo_slips.wav": {
+    "dur": 1.5,
+    "peak_db": -3.0,
+    "rms_db": -22.46,
+    "desc": "竹简散开、竹片互相碰撞的清脆声"
+  },
+  "bone_crack.wav": {
+    "dur": 1.0,
+    "peak_db": -3.0,
+    "rms_db": -32.97,
+    "desc": "龟甲被灼烧裂开的“咔”一声，随后细碎裂纹蔓延的小噼啪"
+  },
+  "bronze_bell.wav": {
+    "dur": 4.0,
+    "peak_db": -3.0,
+    "rms_db": -25.45,
+    "desc": "编钟一击：青铜非谐波模态合成，基频约220Hz，长衰减，带拍频"
+  },
+  "fire_crackle.wav": {
+    "dur": 6.0,
+    "peak_db": -6.0,
+    "rms_db": -22.78,
+    "desc": "火光映照龟甲的火堆噼啪：低频火焰呼呼声加随机爆裂颗粒，立体声"
+  },
+  "whoosh_zoom.wav": {
+    "dur": 1.0,
+    "peak_db": -3.0,
+    "rms_db": -22.17,
+    "desc": "急推镜头的“嗖”：上扬的带通噪声扫频，从200Hz到4kHz，结尾收得很干净"
+  },
+  "water_pour_soil.wav": {
+    "dur": 3.0,
+    "peak_db": -3.0,
+    "rms_db": -20.68,
+    "desc": "铁皮水壶浇水落在土上：水流的宽带噪声加落土的低频噗噗声"
+  },
+  "soil_soak.wav": {
+    "dur": 2.5,
+    "peak_db": -3.0,
+    "rms_db": -23.15,
+    "desc": "水渗进土里冒小气泡：稀疏的细小气泡破裂声"
+  },
+  "seed_crack.wav": {
+    "dur": 0.6,
+    "peak_db": -3.0,
+    "rms_db": -30.58,
+    "desc": "种子露白时极轻的一声细裂：非常小、亲密"
+  }
+}

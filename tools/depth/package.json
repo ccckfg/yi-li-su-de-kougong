@@ -1,0 +1,13 @@
+{
+  "name": "depth-tool",
+  "version": "1.0.0",
+  "description": "Monocular depth maps for film stills (transformers.js + Depth Anything V2)",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "depth": "node depth.mjs"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^4.3.1"
+  }
+}

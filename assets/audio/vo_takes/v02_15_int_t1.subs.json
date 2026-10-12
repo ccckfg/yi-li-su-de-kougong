@@ -1,0 +1,55 @@
+[
+   {
+      "text": "叫什么？",
+      "pronounce_text": "叫什么？",
+      "time_begin": 0.0,
+      "time_end": 677.8684807256235,
+      "text_begin": 0,
+      "text_end": 4,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 4,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "叫",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "叫",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 37.10144927536232,
+            "time_end": 148.40579710144928
+         },
+         {
+            "word": "什",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "什",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 148.40579710144928,
+            "time_end": 296.81159420289856
+         },
+         {
+            "word": "么",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "么",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 296.81159420289856,
+            "time_end": 408.1159420289855
+         },
+         {
+            "word": "？",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "？",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 408.1159420289855,
+            "time_end": 445.21739130434787
+         }
+      ]
+   }
+]

@@ -1,0 +1,105 @@
+[
+   {
+      "text": "……谁让你们查的。",
+      "pronounce_text": "……谁让你们查的。",
+      "time_begin": 0.0,
+      "time_end": 1362.857142857143,
+      "text_begin": 0,
+      "text_end": 9,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 9,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "…",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 40.63492063492063,
+            "time_end": 121.9047619047619
+         },
+         {
+            "word": "…",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 121.9047619047619,
+            "time_end": 162.53968253968253
+         },
+         {
+            "word": "谁",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "谁",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 162.53968253968253,
+            "time_end": 243.8095238095238
+         },
+         {
+            "word": "让",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "让",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 243.8095238095238,
+            "time_end": 487.6190476190476
+         },
+         {
+            "word": "你",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "你",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 487.6190476190476,
+            "time_end": 650.1587301587301
+         },
+         {
+            "word": "们",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "们",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 650.1587301587301,
+            "time_end": 731.4285714285714
+         },
+         {
+            "word": "查",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "查",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 731.4285714285714,
+            "time_end": 812.6984126984125
+         },
+         {
+            "word": "的",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "的",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 812.6984126984125,
+            "time_end": 853.3333333333333
+         },
+         {
+            "word": "。",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 853.3333333333333,
+            "time_end": 1097.142857142857
+         }
+      ]
+   }
+]

@@ -1,0 +1,105 @@
+[
+   {
+      "text": "哎哎哎，拿走拿走！",
+      "pronounce_text": "哎哎哎，拿走拿走！",
+      "time_begin": 0.0,
+      "time_end": 1513.7868480725624,
+      "text_begin": 0,
+      "text_end": 9,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 9,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "哎",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "哎",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 32.32323232323232,
+            "time_end": 193.93939393939394
+         },
+         {
+            "word": "哎",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "哎",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 193.93939393939394,
+            "time_end": 323.2323232323232
+         },
+         {
+            "word": "哎",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "哎",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 323.2323232323232,
+            "time_end": 517.1717171717171
+         },
+         {
+            "word": "，",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 517.1717171717171,
+            "time_end": 743.4343434343433
+         },
+         {
+            "word": "拿",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "拿",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 743.4343434343433,
+            "time_end": 775.7575757575758
+         },
+         {
+            "word": "走",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "走",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 775.7575757575758,
+            "time_end": 905.0505050505049
+         },
+         {
+            "word": "拿",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "拿",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 905.0505050505049,
+            "time_end": 1034.3434343434342
+         },
+         {
+            "word": "走",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "走",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1034.3434343434342,
+            "time_end": 1163.6363636363635
+         },
+         {
+            "word": "！",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "！",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1163.6363636363635,
+            "time_end": 1260.6060606060605
+         }
+      ]
+   }
+]

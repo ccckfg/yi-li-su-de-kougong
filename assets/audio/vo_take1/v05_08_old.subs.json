@@ -1,0 +1,65 @@
+[
+   {
+      "text": "……行吧。",
+      "pronounce_text": "……行吧。",
+      "time_begin": 0.0,
+      "time_end": 1153.8775510204082,
+      "text_begin": 0,
+      "text_end": 5,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 5,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "…",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 50.19607843137255,
+            "time_end": 150.58823529411765
+         },
+         {
+            "word": "…",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 150.58823529411765,
+            "time_end": 200.7843137254902
+         },
+         {
+            "word": "行",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "行",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 200.7843137254902,
+            "time_end": 301.1764705882353
+         },
+         {
+            "word": "吧",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "吧",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 301.1764705882353,
+            "time_end": 552.156862745098
+         },
+         {
+            "word": "。",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 552.156862745098,
+            "time_end": 752.9411764705883
+         }
+      ]
+   }
+]

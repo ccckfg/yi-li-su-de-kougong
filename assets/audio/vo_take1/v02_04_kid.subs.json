@@ -1,0 +1,105 @@
+[
+   {
+      "text": "老太太管我叫黄毛。",
+      "pronounce_text": "老太太管我叫黄毛。",
+      "time_begin": 0.0,
+      "time_end": 2105.8956916099773,
+      "text_begin": 0,
+      "text_end": 9,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 9,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "老",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "老",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 38.78787878787878,
+            "time_end": 271.51515151515144
+         },
+         {
+            "word": "太",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "太",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 271.51515151515144,
+            "time_end": 426.66666666666663
+         },
+         {
+            "word": "太",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "太",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 426.66666666666663,
+            "time_end": 581.8181818181818
+         },
+         {
+            "word": "管",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "管",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 581.8181818181818,
+            "time_end": 853.3333333333333
+         },
+         {
+            "word": "我",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 853.3333333333333,
+            "time_end": 1008.4848484848484
+         },
+         {
+            "word": "叫",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "叫",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 1008.4848484848484,
+            "time_end": 1241.212121212121
+         },
+         {
+            "word": "黄",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "黄",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1241.212121212121,
+            "time_end": 1435.151515151515
+         },
+         {
+            "word": "毛",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "毛",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1435.151515151515,
+            "time_end": 1706.6666666666665
+         },
+         {
+            "word": "。",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1706.6666666666665,
+            "time_end": 1978.1818181818176
+         }
+      ]
+   }
+]

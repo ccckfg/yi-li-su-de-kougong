@@ -1,0 +1,85 @@
+[
+   {
+      "text": "(sighs)有什么特长？",
+      "pronounce_text": "(sighs)有什么特长？",
+      "time_begin": 0.0,
+      "time_end": 1641.4965986394557,
+      "text_begin": 0,
+      "text_end": 13,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 13,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "(sighs)",
+            "word_begin": 0,
+            "word_end": 7,
+            "pronounce_word": "(sighs)",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 7,
+            "time_begin": 37.10144927536232,
+            "time_end": 185.5072463768116
+         },
+         {
+            "word": "有",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "有",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 185.5072463768116,
+            "time_end": 964.6376811594203
+         },
+         {
+            "word": "什",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "什",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 964.6376811594203,
+            "time_end": 1075.9420289855075
+         },
+         {
+            "word": "么",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "么",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1075.9420289855075,
+            "time_end": 1187.2463768115942
+         },
+         {
+            "word": "特",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "特",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1187.2463768115942,
+            "time_end": 1261.4492753623188
+         },
+         {
+            "word": "长",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "长",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 1261.4492753623188,
+            "time_end": 1372.753623188406
+         },
+         {
+            "word": "？",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "？",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 1372.753623188406,
+            "time_end": 1409.8550724637682
+         }
+      ]
+   }
+]

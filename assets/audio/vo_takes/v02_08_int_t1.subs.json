@@ -1,0 +1,185 @@
+[
+   {
+      "text": "这上头写着，你在她家住了四十多年。",
+      "pronounce_text": "这上头写着，你在她家住了四十多年。",
+      "time_begin": 0.0,
+      "time_end": 2825.714285714286,
+      "text_begin": 0,
+      "text_end": 17,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 17,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "这",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "这",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 37.10144927536232,
+            "time_end": 185.5072463768116
+         },
+         {
+            "word": "上",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "上",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 185.5072463768116,
+            "time_end": 296.81159420289856
+         },
+         {
+            "word": "头",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "头",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 296.81159420289856,
+            "time_end": 445.21739130434787
+         },
+         {
+            "word": "写",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "写",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 445.21739130434787,
+            "time_end": 519.4202898550724
+         },
+         {
+            "word": "着",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "着",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 519.4202898550724,
+            "time_end": 630.7246376811594
+         },
+         {
+            "word": "，",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 630.7246376811594,
+            "time_end": 667.8260869565217
+         },
+         {
+            "word": "你",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "你",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 667.8260869565217,
+            "time_end": 927.5362318840581
+         },
+         {
+            "word": "在",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "在",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 927.5362318840581,
+            "time_end": 1632.463768115942
+         },
+         {
+            "word": "她",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "她",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1632.463768115942,
+            "time_end": 1743.768115942029
+         },
+         {
+            "word": "家",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "家",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1743.768115942029,
+            "time_end": 1892.173913043478
+         },
+         {
+            "word": "住",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "住",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1892.173913043478,
+            "time_end": 2003.4782608695655
+         },
+         {
+            "word": "了",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "了",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2003.4782608695655,
+            "time_end": 2151.884057971015
+         },
+         {
+            "word": "四",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "四",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 2151.884057971015,
+            "time_end": 2226.0869565217395
+         },
+         {
+            "word": "十",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "十",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 2226.0869565217395,
+            "time_end": 2374.4927536231885
+         },
+         {
+            "word": "多",
+            "word_begin": 14,
+            "word_end": 15,
+            "pronounce_word": "多",
+            "pronounce_word_begin": 14,
+            "pronounce_word_end": 15,
+            "time_begin": 2374.4927536231885,
+            "time_end": 2485.7971014492755
+         },
+         {
+            "word": "年",
+            "word_begin": 15,
+            "word_end": 16,
+            "pronounce_word": "年",
+            "pronounce_word_begin": 15,
+            "pronounce_word_end": 16,
+            "time_begin": 2485.7971014492755,
+            "time_end": 2597.1014492753625
+         },
+         {
+            "word": "。",
+            "word_begin": 16,
+            "word_end": 17,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 16,
+            "pronounce_word_end": 17,
+            "time_begin": 2597.1014492753625,
+            "time_end": 2745.507246376812
+         }
+      ]
+   }
+]

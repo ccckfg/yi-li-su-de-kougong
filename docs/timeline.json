@@ -1,0 +1,807 @@
+{
+ "lines": [
+  {
+   "id": "v01_gran_a",
+   "role": "gran",
+   "text": "就剩这么些了……",
+   "file": "audio/vo/v01_gran_a.wav",
+   "audioFrom": 139,
+   "speechFrom": 143,
+   "speechTo": 184
+  },
+  {
+   "id": "v01_gran_b",
+   "role": "gran",
+   "text": "你可得对它好点儿啊。",
+   "file": "audio/vo/v01_gran_b.wav",
+   "audioFrom": 190,
+   "speechFrom": 195,
+   "speechTo": 244
+  },
+  {
+   "id": "v02_01_int",
+   "role": "int",
+   "text": "名字。",
+   "file": "audio/vo/v02_01_int.wav",
+   "audioFrom": 338,
+   "speechFrom": 342,
+   "speechTo": 351
+  },
+  {
+   "id": "v02_02_kid",
+   "role": "kid",
+   "text": "……没有。",
+   "file": "audio/vo/v02_02_kid.wav",
+   "audioFrom": 353,
+   "speechFrom": 363,
+   "speechTo": 372
+  },
+  {
+   "id": "v02_03_int",
+   "role": "int",
+   "text": "没有？",
+   "file": "audio/vo/v02_03_int.wav",
+   "audioFrom": 373,
+   "speechFrom": 377,
+   "speechTo": 383
+  },
+  {
+   "id": "v02_04_kid",
+   "role": "kid",
+   "text": "老太太管我叫黄毛。",
+   "file": "audio/vo/v02_04_kid.wav",
+   "audioFrom": 382,
+   "speechFrom": 385,
+   "speechTo": 413
+  },
+  {
+   "id": "v02_05_kid",
+   "role": "kid",
+   "text": "不是那种黄毛啊！我可老实了。",
+   "file": "audio/vo/v02_05_kid.wav",
+   "audioFrom": 423,
+   "speechFrom": 427,
+   "speechTo": 472
+  },
+  {
+   "id": "v02_06_int",
+   "role": "int",
+   "text": "多大？",
+   "file": "audio/vo/v02_06_int.wav",
+   "audioFrom": 476,
+   "speechFrom": 479,
+   "speechTo": 488
+  },
+  {
+   "id": "v02_07_kid",
+   "role": "kid",
+   "text": "今年秋天刚生的。",
+   "file": "audio/vo/v02_07_kid.wav",
+   "audioFrom": 487,
+   "speechFrom": 490,
+   "speechTo": 516
+  },
+  {
+   "id": "v02_08_int",
+   "role": "int",
+   "text": "这上头写着，你在她家住了四十多年。",
+   "file": "audio/vo/v02_08_int.wav",
+   "audioFrom": 522,
+   "speechFrom": 525,
+   "speechTo": 582
+  },
+  {
+   "id": "v02_09_kid",
+   "role": "kid",
+   "text": "那是我爸，我爷，我太爷……我们一家子都住那儿，一辈接一辈的。",
+   "file": "audio/vo/v02_09_kid.wav",
+   "audioFrom": 583,
+   "speechFrom": 584,
+   "speechTo": 694
+  },
+  {
+   "id": "v02_10_kid",
+   "role": "kid",
+   "text": "哎哎哎，拿走拿走！",
+   "file": "audio/vo/v02_10_kid.wav",
+   "audioFrom": 702,
+   "speechFrom": 706,
+   "speechTo": 731
+  },
+  {
+   "id": "v02_11_int",
+   "role": "int",
+   "text": "一杯水，你怕什么。",
+   "file": "audio/vo/v02_11_int.wav",
+   "audioFrom": 731,
+   "speechFrom": 735,
+   "speechTo": 765
+  },
+  {
+   "id": "v02_12_kid",
+   "role": "kid",
+   "text": "我沾水就得开口！开了口就收不回去了！",
+   "file": "audio/vo/v02_12_kid.wav",
+   "audioFrom": 762,
+   "speechFrom": 767,
+   "speechTo": 827
+  },
+  {
+   "id": "v02_13_int",
+   "role": "int",
+   "text": "……家里还有什么亲戚？",
+   "file": "audio/vo/v02_13_int.wav",
+   "audioFrom": 834,
+   "speechFrom": 838,
+   "speechTo": 871
+  },
+  {
+   "id": "v02_14_kid",
+   "role": "kid",
+   "text": "有个远房的。路边上、墙根底下，到处都是，你肯定见过。",
+   "file": "audio/vo/v02_14_kid.wav",
+   "audioFrom": 871,
+   "speechFrom": 874,
+   "speechTo": 987
+  },
+  {
+   "id": "v02_15_int",
+   "role": "int",
+   "text": "叫什么？",
+   "file": "audio/vo/v02_15_int.wav",
+   "audioFrom": 989,
+   "speechFrom": 992,
+   "speechTo": 1001
+  },
+  {
+   "id": "v02_16_kid",
+   "role": "kid",
+   "text": "不告诉你。说出来丢人。",
+   "file": "audio/vo/v02_16_kid.wav",
+   "audioFrom": 1001,
+   "speechFrom": 1003,
+   "speechTo": 1037
+  },
+  {
+   "id": "v02_17_int",
+   "role": "int",
+   "text": "(sighs)有什么特长？",
+   "file": "audio/vo/v02_17_int.wav",
+   "audioFrom": 1041,
+   "speechFrom": 1045,
+   "speechTo": 1078
+  },
+  {
+   "id": "v02_18_kid",
+   "role": "kid",
+   "text": "耐旱，不挑地，石头缝里都能活。还有……熬粥特别香。",
+   "file": "audio/vo/v02_18_kid.wav",
+   "audioFrom": 1077,
+   "speechFrom": 1083,
+   "speechTo": 1160
+  },
+  {
+   "id": "v02_19_int",
+   "role": "int",
+   "text": "知道为什么带你来吗？",
+   "file": "audio/vo/v02_19_int.wav",
+   "audioFrom": 1188,
+   "speechFrom": 1192,
+   "speechTo": 1212
+  },
+  {
+   "id": "v02_20_kid",
+   "role": "kid",
+   "text": "不知道……我又不值钱。",
+   "file": "audio/vo/v02_20_kid.wav",
+   "audioFrom": 1215,
+   "speechFrom": 1218,
+   "speechTo": 1260
+  },
+  {
+   "id": "v02_21_int",
+   "role": "int",
+   "text": "最后一个问题。你到底多大了？",
+   "file": "audio/vo/v02_21_int.wav",
+   "audioFrom": 1267,
+   "speechFrom": 1271,
+   "speechTo": 1312
+  },
+  {
+   "id": "v02_22_kid",
+   "role": "kid",
+   "text": "你是问我，还是问我们？",
+   "file": "audio/vo/v02_22_kid.wav",
+   "audioFrom": 1313,
+   "speechFrom": 1317,
+   "speechTo": 1345
+  },
+  {
+   "id": "v02_23_int",
+   "role": "int",
+   "text": "你们。",
+   "file": "audio/vo/v02_23_int.wav",
+   "audioFrom": 1350,
+   "speechFrom": 1353,
+   "speechTo": 1363
+  },
+  {
+   "id": "v02_24_kid",
+   "role": "kid",
+   "text": "……一万年吧。差不多。",
+   "file": "audio/vo/v02_24_kid.wav",
+   "audioFrom": 1373,
+   "speechFrom": 1376,
+   "speechTo": 1447,
+   "xfadeWith": "v02_24_old"
+  },
+  {
+   "id": "v02_24_old",
+   "role": "old",
+   "text": "……一万年吧。差不多。",
+   "file": "audio/vo/v02_24_old.wav",
+   "audioFrom": 1368,
+   "speechFrom": 1376,
+   "speechTo": 1447
+  },
+  {
+   "id": "v03_1",
+   "role": "old",
+   "text": "那会儿我还是根野草，一熟就往地上掉。有人专掐那些熟了还不掉的。",
+   "file": "audio/vo/v03_1.wav",
+   "audioFrom": 1520,
+   "speechFrom": 1525,
+   "speechTo": 1649
+  },
+  {
+   "id": "v03_2",
+   "role": "old",
+   "text": "后来就住进罐子里了。这习惯，我们家留到了今天。",
+   "file": "audio/vo/v03_2.wav",
+   "audioFrom": 1653,
+   "speechFrom": 1658,
+   "speechTo": 1754
+  },
+  {
+   "id": "v03_3",
+   "role": "old",
+   "text": "他们在骨头上刻我。刻得还挺像，熟透的谷子，都低着头。",
+   "file": "audio/vo/v03_3.wav",
+   "audioFrom": 1759,
+   "speechFrom": 1762,
+   "speechTo": 1871
+  },
+  {
+   "id": "v03_4",
+   "role": "old",
+   "text": "有人写诗，说我是老天爷赏的。我也没好意思吭声。",
+   "file": "audio/vo/v03_4.wav",
+   "audioFrom": 1875,
+   "speechFrom": 1880,
+   "speechTo": 1980
+  },
+  {
+   "id": "v03_5",
+   "role": "old",
+   "text": "贾思勰把怎么挑我写下来了：挑好穗子，割下来，挂高。后来的人照着做了一千多年。",
+   "file": "audio/vo/v03_5.wav",
+   "audioFrom": 1986,
+   "speechFrom": 1989,
+   "speechTo": 2169
+  },
+  {
+   "id": "v03_6",
+   "role": "old",
+   "text": "这句你们都会背吧？背的时候，想过那一粒是打哪来的吗？",
+   "file": "audio/vo/v03_6.wav",
+   "audioFrom": 2173,
+   "speechFrom": 2178,
+   "speechTo": 2293
+  },
+  {
+   "id": "v03_7",
+   "role": "old",
+   "text": "老宋写书，粮食放第一篇，珠宝放最后一篇。这人，我喜欢。",
+   "file": "audio/vo/v03_7.wav",
+   "audioFrom": 2298,
+   "speechFrom": 2302,
+   "speechTo": 2424
+  },
+  {
+   "id": "v03_8",
+   "role": "old",
+   "text": "小米加步枪。那几年……我是真扛过事儿的。",
+   "file": "audio/vo/v03_8.wav",
+   "audioFrom": 2428,
+   "speechFrom": 2432,
+   "speechTo": 2521
+  },
+  {
+   "id": "v04_old",
+   "role": "old",
+   "text": "……谁让你们查的。",
+   "file": "audio/vo/v04_old.wav",
+   "audioFrom": 2676,
+   "speechFrom": 2680,
+   "speechTo": 2704
+  },
+  {
+   "id": "v05_01_old",
+   "role": "old",
+   "text": "那你到底……带我来干啥？",
+   "file": "audio/vo/v05_01_old.wav",
+   "audioFrom": 2912,
+   "speechFrom": 2915,
+   "speechTo": 2953
+  },
+  {
+   "id": "v05_02_man",
+   "role": "man",
+   "text": "(sighs)那老太太八十三了。儿子们早不种这个了。",
+   "file": "audio/vo/v05_02_man.wav",
+   "audioFrom": 2964,
+   "speechFrom": 2968,
+   "speechTo": 3083
+  },
+  {
+   "id": "v05_03_man",
+   "role": "man",
+   "text": "哪天她不在了，坛子一收拾，你们就全没了。",
+   "file": "audio/vo/v05_03_man.wav",
+   "audioFrom": 3087,
+   "speechFrom": 3095,
+   "speechTo": 3203
+  },
+  {
+   "id": "v05_04_man",
+   "role": "man",
+   "text": "抓你干啥。接你来的。",
+   "file": "audio/vo/v05_04_man.wav",
+   "audioFrom": 3208,
+   "speechFrom": 3216,
+   "speechTo": 3252
+  },
+  {
+   "id": "v05_05_old",
+   "role": "old",
+   "text": "后来隔壁袋子跟我说，这老头干这个快四十年了。黑龙江到海南，一家一家敲门，就为讨一把种子。",
+   "file": "audio/vo/v05_05_old.wav",
+   "audioFrom": 3264,
+   "speechFrom": 3267,
+   "speechTo": 3444
+  },
+  {
+   "id": "v05_06_old",
+   "role": "old",
+   "text": "房梁换成了铁架子，肉眼换成了测序仪。弯腰那一下，一直没变。",
+   "file": "audio/vo/v05_06_old.wav",
+   "audioFrom": 3448,
+   "speechFrom": 3454,
+   "speechTo": 3574
+  },
+  {
+   "id": "v05_07_old",
+   "role": "old",
+   "text": "都说好种子是老天爷赏的。我活了一万年，老天爷一回没见着。见着的，全是这样的人。",
+   "file": "audio/vo/v05_07_old.wav",
+   "audioFrom": 3581,
+   "speechFrom": 3586,
+   "speechTo": 3745
+  },
+  {
+   "id": "v05_08_old",
+   "role": "old",
+   "text": "……行吧。",
+   "file": "audio/vo/v05_08_old.wav",
+   "audioFrom": 3790,
+   "speechFrom": 3793,
+   "speechTo": 3807
+  },
+  {
+   "id": "v05_09_kid",
+   "role": "kid",
+   "text": "我招。",
+   "file": "audio/vo/v05_09_kid.wav",
+   "audioFrom": 3818,
+   "speechFrom": 3822,
+   "speechTo": 3830
+  }
+ ],
+ "shots": [
+  {
+   "id": "S01",
+   "section": "带走",
+   "from": 0,
+   "dur": 60
+  },
+  {
+   "id": "S02",
+   "section": "带走",
+   "from": 60,
+   "dur": 65
+  },
+  {
+   "id": "S03",
+   "section": "带走",
+   "from": 125,
+   "dur": 63
+  },
+  {
+   "id": "S04",
+   "section": "带走",
+   "from": 188,
+   "dur": 62
+  },
+  {
+   "id": "S05",
+   "section": "带走",
+   "from": 250,
+   "dur": 43
+  },
+  {
+   "id": "S06",
+   "section": "口供",
+   "from": 293,
+   "dur": 46
+  },
+  {
+   "id": "S07",
+   "section": "口供",
+   "from": 339,
+   "dur": 76
+  },
+  {
+   "id": "S08",
+   "section": "口供",
+   "from": 415,
+   "dur": 60
+  },
+  {
+   "id": "S09",
+   "section": "口供",
+   "from": 475,
+   "dur": 106
+  },
+  {
+   "id": "S09b",
+   "section": "口供",
+   "from": 581,
+   "dur": 115
+  },
+  {
+   "id": "S10",
+   "section": "口供",
+   "from": 696,
+   "dur": 135
+  },
+  {
+   "id": "S11",
+   "section": "口供",
+   "from": 831,
+   "dur": 249
+  },
+  {
+   "id": "S12",
+   "section": "口供",
+   "from": 1080,
+   "dur": 110
+  },
+  {
+   "id": "S13",
+   "section": "口供",
+   "from": 1190,
+   "dur": 123
+  },
+  {
+   "id": "S13b",
+   "section": "口供",
+   "from": 1313,
+   "dur": 55
+  },
+  {
+   "id": "S14",
+   "section": "口供",
+   "from": 1368,
+   "dur": 146
+  },
+  {
+   "id": "S15",
+   "section": "一万年",
+   "from": 1514,
+   "dur": 141
+  },
+  {
+   "id": "S16",
+   "section": "一万年",
+   "from": 1655,
+   "dur": 105
+  },
+  {
+   "id": "S17",
+   "section": "一万年",
+   "from": 1760,
+   "dur": 117
+  },
+  {
+   "id": "S18",
+   "section": "一万年",
+   "from": 1877,
+   "dur": 109
+  },
+  {
+   "id": "S19",
+   "section": "一万年",
+   "from": 1986,
+   "dur": 189
+  },
+  {
+   "id": "S20",
+   "section": "一万年",
+   "from": 2175,
+   "dur": 124
+  },
+  {
+   "id": "S21",
+   "section": "一万年",
+   "from": 2299,
+   "dur": 131
+  },
+  {
+   "id": "S22",
+   "section": "一万年",
+   "from": 2430,
+   "dur": 106
+  },
+  {
+   "id": "S23",
+   "section": "化验",
+   "from": 2536,
+   "dur": 86
+  },
+  {
+   "id": "S24",
+   "section": "化验",
+   "from": 2622,
+   "dur": 91
+  },
+  {
+   "id": "S25",
+   "section": "化验",
+   "from": 2713,
+   "dur": 36
+  },
+  {
+   "id": "S26",
+   "section": "接你",
+   "from": 2749,
+   "dur": 68
+  },
+  {
+   "id": "S27",
+   "section": "接你",
+   "from": 2817,
+   "dur": 86
+  },
+  {
+   "id": "S28",
+   "section": "接你",
+   "from": 2903,
+   "dur": 59
+  },
+  {
+   "id": "S29a",
+   "section": "接你",
+   "from": 2962,
+   "dur": 124
+  },
+  {
+   "id": "S29b",
+   "section": "接你",
+   "from": 3086,
+   "dur": 174
+  },
+  {
+   "id": "S30_1",
+   "section": "接你",
+   "from": 3260,
+   "dur": 71
+  },
+  {
+   "id": "S30_2",
+   "section": "接你",
+   "from": 3331,
+   "dur": 60
+  },
+  {
+   "id": "S30_3",
+   "section": "接你",
+   "from": 3391,
+   "dur": 57
+  },
+  {
+   "id": "S31_1",
+   "section": "接你",
+   "from": 3448,
+   "dur": 47
+  },
+  {
+   "id": "S31_2",
+   "section": "接你",
+   "from": 3495,
+   "dur": 38
+  },
+  {
+   "id": "S31_3",
+   "section": "接你",
+   "from": 3533,
+   "dur": 47
+  },
+  {
+   "id": "S32",
+   "section": "接你",
+   "from": 3580,
+   "dur": 95
+  },
+  {
+   "id": "S33",
+   "section": "接你",
+   "from": 3675,
+   "dur": 114
+  },
+  {
+   "id": "S34",
+   "section": "接你",
+   "from": 3789,
+   "dur": 47
+  },
+  {
+   "id": "S35",
+   "section": "接你",
+   "from": 3836,
+   "dur": 120
+  },
+  {
+   "id": "S36",
+   "section": "片尾",
+   "from": 3956,
+   "dur": 72
+  },
+  {
+   "id": "S37",
+   "section": "片尾",
+   "from": 4028,
+   "dur": 168
+  }
+ ],
+ "cues": [
+  {
+   "id": "wind_in",
+   "at": 0
+  },
+  {
+   "id": "typewriter",
+   "at": 7
+  },
+  {
+   "id": "snow_steps",
+   "at": 62
+  },
+  {
+   "id": "knock1",
+   "at": 92
+  },
+  {
+   "id": "knock2",
+   "at": 102
+  },
+  {
+   "id": "bowl_lift",
+   "at": 130
+  },
+  {
+   "id": "grain_pour",
+   "at": 188
+  },
+  {
+   "id": "caption_taken",
+   "at": 253
+  },
+  {
+   "id": "lamp_click",
+   "at": 303
+  },
+  {
+   "id": "title_kougong",
+   "at": 311
+  },
+  {
+   "id": "pen_stop",
+   "at": 415
+  },
+  {
+   "id": "paper_flip",
+   "at": 519
+  },
+  {
+   "id": "glass_push",
+   "at": 696
+  },
+  {
+   "id": "ink_drop",
+   "at": 1162
+  },
+  {
+   "id": "folder_close",
+   "at": 1267
+  },
+  {
+   "id": "lamp_flicker",
+   "at": 1369
+  },
+  {
+   "id": "bag_tip",
+   "at": 1450
+  },
+  {
+   "id": "grains_spill",
+   "at": 1456
+  },
+  {
+   "id": "piano_1",
+   "at": 2754
+  },
+  {
+   "id": "piano_2",
+   "at": 2826
+  },
+  {
+   "id": "pen_write",
+   "at": 2905
+  },
+  {
+   "id": "wind_water",
+   "at": 3748
+  },
+  {
+   "id": "caption_spring",
+   "at": 3853
+  },
+  {
+   "id": "title_full",
+   "at": 3894
+  }
+ ],
+ "sections": [
+  {
+   "id": "带走",
+   "from": 0,
+   "dur": 293
+  },
+  {
+   "id": "口供",
+   "from": 293,
+   "dur": 1221
+  },
+  {
+   "id": "一万年",
+   "from": 1514,
+   "dur": 1022
+  },
+  {
+   "id": "化验",
+   "from": 2536,
+   "dur": 213
+  },
+  {
+   "id": "接你",
+   "from": 2749,
+   "dur": 1207
+  },
+  {
+   "id": "片尾",
+   "from": 3956,
+   "dur": 240
+  }
+ ],
+ "total": 4196
+}

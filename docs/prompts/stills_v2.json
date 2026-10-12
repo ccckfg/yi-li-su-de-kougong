@@ -1,0 +1,40 @@
+{
+ "_style": {
+  "warm_real": "Cinematic film still, shot on 35mm Kodak Vision3 500T, visible fine film grain, low-saturation warm grey palette, soft natural light, shallow depth of field, photorealistic, restrained and quiet mood. No text, no letters, no watermark, no logo. No visible face; any person is seen from behind, in silhouette, or only as hands.",
+  "noir": "Black-and-amber film noir still, lit only by one old desk lamp: a warm tungsten pool of light on the desk falling off into deep black, high contrast, shallow depth of field, 35mm film grain, photorealistic. No text, no letters, no watermark. No visible face.",
+  "old_man_hands": "an old man's hands with age spots and thick knuckles, cuffs of a worn grey wool sweater, an old stainless-steel-band mechanical wristwatch on the LEFT wrist",
+  "old_woman_hands": "an old peasant woman's hands with cracked weathered skin, cuffs of a dark-blue coarse cotton padded jacket",
+  "lamp": "an old brass banker's desk lamp with a green glass shade",
+  "envelope": "an old kraft-paper envelope, top folded over twice, faint illegible pencil marks on it",
+  "jar": "a dark-brown coarse stoneware jar, its mouth covered by an upside-down white bowl with a blue rim"
+ },
+ "shots": [
+  {
+   "shot": "S04",
+   "use": "first_frame",
+   "style": "warm_real",
+   "prompt": "Close-up of {old_man_hands}, holding open a kraft-paper seed envelope whose mouth gapes open upward like a small paper bag; the bottom of the envelope already bulges slightly as if a little grain is inside, ready to receive more grain poured from above (the pouring itself is not shown, nothing falling in frame). Background: a softly blurred farmhouse kang with a patterned quilt, warm dim interior light, cold window light rim on the knuckles."
+  },
+  {
+   "shot": "S15",
+   "use": "plate",
+   "style": "none",
+   "prompt": "Rough charcoal drawing on coarse stone-like grey paper, heavy grain, almost monochrome charcoal black with only a faint touch of yellow ochre: about ten thousand years ago on a hillside in North China, two or three hunter-gatherers wrapped in animal hides bend among wild green foxtail grass (Setaria viridis) — slender stems topped with cylindrical, bristly, nodding panicles that look like small fox tails, NOT wheat, NOT barley, NOT rice. One of them pinches off a bristly panicle that still clings to its stem and drops it into a hide pouch at his waist. Expressive smudged strokes and visible charcoal hatching, prehistoric atmosphere, faces not detailed. 16:9. No text."
+  },
+  {
+   "shot": "S30-3",
+   "use": "first_frame",
+   "style": "none",
+   "refs": [
+    "assets/stills/v1/S30-2.png"
+   ],
+   "prompt": "Edit the attached photograph. Keep EXACTLY the same composition, camera angle, framing, millet field, ridge, background and the same crouching pose and notebook. Change only two things: (1) the man becomes a white-haired elderly man of about 65, same build, same worn grey wool sweater, same old stainless-steel-band wristwatch on his left wrist, face still not visible; (2) the image look changes from 1990s film to a crisp modern digital photograph with natural colours and fine detail. No text."
+  },
+  {
+   "shot": "S28",
+   "use": "first_frame",
+   "style": "noir",
+   "prompt": "Close-up under {lamp}: an old man's right hand holds an old black fountain pen and writes on a kraft-paper seed envelope lying on an old wooden desk, while his left hand, with an old stainless-steel-band wristwatch and grey wool sweater cuff, steadies the envelope. The handwriting on the envelope is small, faint and completely illegible, blurred by shallow depth of field. Warm amber pool of light, deep shadows around."
+  }
+ ]
+}

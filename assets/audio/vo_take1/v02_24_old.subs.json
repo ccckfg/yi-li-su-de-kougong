@@ -1,0 +1,125 @@
+[
+   {
+      "text": "……一万年吧。差不多。",
+      "pronounce_text": "……一万年吧。差不多。",
+      "time_begin": 0.0,
+      "time_end": 2256.8253968253966,
+      "text_begin": 0,
+      "text_end": 11,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 11,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "…",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 50.19607843137255,
+            "time_end": 150.58823529411765
+         },
+         {
+            "word": "…",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 150.58823529411765,
+            "time_end": 200.7843137254902
+         },
+         {
+            "word": "一",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "一",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 200.7843137254902,
+            "time_end": 250.98039215686273
+         },
+         {
+            "word": "万",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "万",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 250.98039215686273,
+            "time_end": 401.5686274509804
+         },
+         {
+            "word": "年",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "年",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 401.5686274509804,
+            "time_end": 602.3529411764706
+         },
+         {
+            "word": "吧",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "吧",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 602.3529411764706,
+            "time_end": 803.1372549019608
+         },
+         {
+            "word": "。",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 803.1372549019608,
+            "time_end": 903.5294117647059
+         },
+         {
+            "word": "差",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "差",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 903.5294117647059,
+            "time_end": 1505.8823529411766
+         },
+         {
+            "word": "不",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "不",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1505.8823529411766,
+            "time_end": 1706.6666666666665
+         },
+         {
+            "word": "多",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "多",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1706.6666666666665,
+            "time_end": 1807.0588235294117
+         },
+         {
+            "word": "。",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1807.0588235294117,
+            "time_end": 2007.8431372549019
+         }
+      ]
+   }
+]

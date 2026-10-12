@@ -1,0 +1,265 @@
+[
+   {
+      "text": "耐旱，不挑地，石头缝里都能活。还有……熬粥特别香。",
+      "pronounce_text": "耐旱，不挑地，石头缝里都能活。还有……熬粥特别香。",
+      "time_begin": 0.0,
+      "time_end": 5519.22902494331,
+      "text_begin": 0,
+      "text_end": 25,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 25,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "耐",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "耐",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 38.78787878787878,
+            "time_end": 271.51515151515144
+         },
+         {
+            "word": "旱",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "旱",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 271.51515151515144,
+            "time_end": 426.66666666666663
+         },
+         {
+            "word": "，",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 426.66666666666663,
+            "time_end": 465.45454545454544
+         },
+         {
+            "word": "不",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "不",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 465.45454545454544,
+            "time_end": 814.5454545454545
+         },
+         {
+            "word": "挑",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "挑",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 814.5454545454545,
+            "time_end": 1163.6363636363635
+         },
+         {
+            "word": "地",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "地",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 1163.6363636363635,
+            "time_end": 1318.7878787878785
+         },
+         {
+            "word": "，",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1318.7878787878785,
+            "time_end": 1357.5757575757575
+         },
+         {
+            "word": "石",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "石",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1357.5757575757575,
+            "time_end": 1745.4545454545453
+         },
+         {
+            "word": "头",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "头",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1745.4545454545453,
+            "time_end": 2055.7575757575755
+         },
+         {
+            "word": "缝",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "缝",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 2055.7575757575755,
+            "time_end": 2210.9090909090905
+         },
+         {
+            "word": "里",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "里",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 2210.9090909090905,
+            "time_end": 2404.848484848485
+         },
+         {
+            "word": "都",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "都",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 2404.848484848485,
+            "time_end": 2521.212121212121
+         },
+         {
+            "word": "能",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "能",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 2521.212121212121,
+            "time_end": 2637.575757575757
+         },
+         {
+            "word": "活",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "活",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 2637.575757575757,
+            "time_end": 2831.515151515151
+         },
+         {
+            "word": "。",
+            "word_begin": 14,
+            "word_end": 15,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 14,
+            "pronounce_word_end": 15,
+            "time_begin": 2831.515151515151,
+            "time_end": 2986.6666666666665
+         },
+         {
+            "word": "还",
+            "word_begin": 15,
+            "word_end": 16,
+            "pronounce_word": "还",
+            "pronounce_word_begin": 15,
+            "pronounce_word_end": 16,
+            "time_begin": 2986.6666666666665,
+            "time_end": 3452.1212121212116
+         },
+         {
+            "word": "有",
+            "word_begin": 16,
+            "word_end": 17,
+            "pronounce_word": "有",
+            "pronounce_word_begin": 16,
+            "pronounce_word_end": 17,
+            "time_begin": 3452.1212121212116,
+            "time_end": 3607.272727272727
+         },
+         {
+            "word": "…",
+            "word_begin": 17,
+            "word_end": 18,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 17,
+            "pronounce_word_end": 18,
+            "time_begin": 3607.272727272727,
+            "time_end": 3762.4242424242416
+         },
+         {
+            "word": "…",
+            "word_begin": 18,
+            "word_end": 19,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 18,
+            "pronounce_word_end": 19,
+            "time_begin": 3762.4242424242416,
+            "time_end": 3956.363636363635
+         },
+         {
+            "word": "熬",
+            "word_begin": 19,
+            "word_end": 20,
+            "pronounce_word": "熬",
+            "pronounce_word_begin": 19,
+            "pronounce_word_end": 20,
+            "time_begin": 3956.363636363635,
+            "time_end": 4227.878787878788
+         },
+         {
+            "word": "粥",
+            "word_begin": 20,
+            "word_end": 21,
+            "pronounce_word": "粥",
+            "pronounce_word_begin": 20,
+            "pronounce_word_end": 21,
+            "time_begin": 4227.878787878788,
+            "time_end": 4421.818181818181
+         },
+         {
+            "word": "特",
+            "word_begin": 21,
+            "word_end": 22,
+            "pronounce_word": "特",
+            "pronounce_word_begin": 21,
+            "pronounce_word_end": 22,
+            "time_begin": 4421.818181818181,
+            "time_end": 4615.757575757575
+         },
+         {
+            "word": "别",
+            "word_begin": 22,
+            "word_end": 23,
+            "pronounce_word": "别",
+            "pronounce_word_begin": 22,
+            "pronounce_word_end": 23,
+            "time_begin": 4615.757575757575,
+            "time_end": 4887.272727272726
+         },
+         {
+            "word": "香",
+            "word_begin": 23,
+            "word_end": 24,
+            "pronounce_word": "香",
+            "pronounce_word_begin": 23,
+            "pronounce_word_end": 24,
+            "time_begin": 4887.272727272726,
+            "time_end": 5081.21212121212
+         },
+         {
+            "word": "。",
+            "word_begin": 24,
+            "word_end": 25,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 24,
+            "pronounce_word_end": 25,
+            "time_begin": 5081.21212121212,
+            "time_end": 5313.939393939394
+         }
+      ]
+   }
+]

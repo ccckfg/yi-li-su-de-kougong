@@ -1,0 +1,195 @@
+[
+   {
+      "text": "我沾水就得开口！开了口就收不回去了！",
+      "pronounce_text": "我沾水就得开口！开了口就收不回去了！",
+      "time_begin": 0.0,
+      "time_end": 2802.4943310657595,
+      "text_begin": 0,
+      "text_end": 18,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 18,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "我",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 29.42528735632184,
+            "time_end": 205.97701149425285
+         },
+         {
+            "word": "沾",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "沾",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 205.97701149425285,
+            "time_end": 294.2528735632184
+         },
+         {
+            "word": "水",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "水",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 294.2528735632184,
+            "time_end": 500.2298850574712
+         },
+         {
+            "word": "就",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "就",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 500.2298850574712,
+            "time_end": 647.3563218390805
+         },
+         {
+            "word": "得",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "得",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 647.3563218390805,
+            "time_end": 765.0574712643678
+         },
+         {
+            "word": "开",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "开",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 765.0574712643678,
+            "time_end": 853.3333333333335
+         },
+         {
+            "word": "口",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "口",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 853.3333333333335,
+            "time_end": 1000.4597701149424
+         },
+         {
+            "word": "！",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "！",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1000.4597701149424,
+            "time_end": 1118.1609195402298
+         },
+         {
+            "word": "开",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "开",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1118.1609195402298,
+            "time_end": 1412.4137931034484
+         },
+         {
+            "word": "了",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "了",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1412.4137931034484,
+            "time_end": 1559.5402298850577
+         },
+         {
+            "word": "口",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "口",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1559.5402298850577,
+            "time_end": 1618.3908045977012
+         },
+         {
+            "word": "就",
+            "word_begin": 11,
+            "word_end": 12,
+            "pronounce_word": "就",
+            "pronounce_word_begin": 11,
+            "pronounce_word_end": 12,
+            "time_begin": 1618.3908045977012,
+            "time_end": 1912.6436781609198
+         },
+         {
+            "word": "收",
+            "word_begin": 12,
+            "word_end": 13,
+            "pronounce_word": "收",
+            "pronounce_word_begin": 12,
+            "pronounce_word_end": 13,
+            "time_begin": 1912.6436781609198,
+            "time_end": 2000.919540229885
+         },
+         {
+            "word": "不",
+            "word_begin": 13,
+            "word_end": 14,
+            "pronounce_word": "不",
+            "pronounce_word_begin": 13,
+            "pronounce_word_end": 14,
+            "time_begin": 2000.919540229885,
+            "time_end": 2148.0459770114944
+         },
+         {
+            "word": "回",
+            "word_begin": 14,
+            "word_end": 15,
+            "pronounce_word": "回",
+            "pronounce_word_begin": 14,
+            "pronounce_word_end": 15,
+            "time_begin": 2148.0459770114944,
+            "time_end": 2206.8965517241377
+         },
+         {
+            "word": "去",
+            "word_begin": 15,
+            "word_end": 16,
+            "pronounce_word": "去",
+            "pronounce_word_begin": 15,
+            "pronounce_word_end": 16,
+            "time_begin": 2206.8965517241377,
+            "time_end": 2324.597701149425
+         },
+         {
+            "word": "了",
+            "word_begin": 16,
+            "word_end": 17,
+            "pronounce_word": "了",
+            "pronounce_word_begin": 16,
+            "pronounce_word_end": 17,
+            "time_begin": 2324.597701149425,
+            "time_end": 2530.574712643678
+         },
+         {
+            "word": "！",
+            "word_begin": 17,
+            "word_end": 18,
+            "pronounce_word": "！",
+            "pronounce_word_begin": 17,
+            "pronounce_word_end": 18,
+            "time_begin": 2530.574712643678,
+            "time_end": 2648.2758620689656
+         }
+      ]
+   }
+]

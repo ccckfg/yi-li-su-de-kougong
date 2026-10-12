@@ -1,0 +1,105 @@
+[
+   {
+      "text": "一杯水，你怕什么。",
+      "pronounce_text": "一杯水，你怕什么。",
+      "time_begin": 0.0,
+      "time_end": 1827.2562358276643,
+      "text_begin": 0,
+      "text_end": 9,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 9,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "一",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "一",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 39.50617283950617,
+            "time_end": 237.037037037037
+         },
+         {
+            "word": "杯",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "杯",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 237.037037037037,
+            "time_end": 355.55555555555554
+         },
+         {
+            "word": "水",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "水",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 355.55555555555554,
+            "time_end": 513.5802469135801
+         },
+         {
+            "word": "，",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "，",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 513.5802469135801,
+            "time_end": 553.0864197530863
+         },
+         {
+            "word": "你",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "你",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 553.0864197530863,
+            "time_end": 908.6419753086418
+         },
+         {
+            "word": "怕",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "怕",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 908.6419753086418,
+            "time_end": 1343.2098765432097
+         },
+         {
+            "word": "什",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "什",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1343.2098765432097,
+            "time_end": 1501.2345679012344
+         },
+         {
+            "word": "么",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "么",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1501.2345679012344,
+            "time_end": 1540.7407407407406
+         },
+         {
+            "word": "。",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1540.7407407407406,
+            "time_end": 1659.2592592592591
+         }
+      ]
+   }
+]

@@ -1,0 +1,45 @@
+[
+   {
+      "text": "我招。",
+      "pronounce_text": "我招。",
+      "time_begin": 0.0,
+      "time_end": 596.5986394557823,
+      "text_begin": 0,
+      "text_end": 3,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 3,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "我",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 29.42528735632184,
+            "time_end": 147.1264367816092
+         },
+         {
+            "word": "招",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "招",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 147.1264367816092,
+            "time_end": 294.2528735632184
+         },
+         {
+            "word": "。",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 294.2528735632184,
+            "time_end": 441.3793103448276
+         }
+      ]
+   }
+]

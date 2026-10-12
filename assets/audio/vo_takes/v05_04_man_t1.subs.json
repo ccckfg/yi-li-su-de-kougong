@@ -1,0 +1,115 @@
+[
+   {
+      "text": "抓你干啥。接你来的。",
+      "pronounce_text": "抓你干啥。接你来的。",
+      "time_begin": 0.0,
+      "time_end": 2200.0,
+      "text_begin": 0,
+      "text_end": 10,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 10,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "抓",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "抓",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 41.83006535947712,
+            "time_end": 376.4705882352941
+         },
+         {
+            "word": "你",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "你",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 376.4705882352941,
+            "time_end": 543.7908496732026
+         },
+         {
+            "word": "干",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "干",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 543.7908496732026,
+            "time_end": 669.2810457516339
+         },
+         {
+            "word": "啥",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "啥",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 669.2810457516339,
+            "time_end": 836.6013071895424
+         },
+         {
+            "word": "。",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 836.6013071895424,
+            "time_end": 962.0915032679737
+         },
+         {
+            "word": "接",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "接",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 962.0915032679737,
+            "time_end": 1505.8823529411764
+         },
+         {
+            "word": "你",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "你",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1505.8823529411764,
+            "time_end": 1673.2026143790847
+         },
+         {
+            "word": "来",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "来",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1673.2026143790847,
+            "time_end": 1756.862745098039
+         },
+         {
+            "word": "的",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "的",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1756.862745098039,
+            "time_end": 1798.6928104575163
+         },
+         {
+            "word": "。",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1798.6928104575163,
+            "time_end": 1966.0130718954247
+         }
+      ]
+   }
+]

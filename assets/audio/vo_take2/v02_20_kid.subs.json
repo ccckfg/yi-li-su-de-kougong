@@ -1,0 +1,125 @@
+[
+   {
+      "text": "不知道……我又不值钱。",
+      "pronounce_text": "不知道……我又不值钱。",
+      "time_begin": 0.0,
+      "time_end": 1989.795918367347,
+      "text_begin": 0,
+      "text_end": 11,
+      "pronounce_text_begin": 0,
+      "pronounce_text_end": 11,
+      "is_final_segment": true,
+      "timestamped_words": [
+         {
+            "word": "不",
+            "word_begin": 0,
+            "word_end": 1,
+            "pronounce_word": "不",
+            "pronounce_word_begin": 0,
+            "pronounce_word_end": 1,
+            "time_begin": 32.32323232323232,
+            "time_end": 290.9090909090909
+         },
+         {
+            "word": "知",
+            "word_begin": 1,
+            "word_end": 2,
+            "pronounce_word": "知",
+            "pronounce_word_begin": 1,
+            "pronounce_word_end": 2,
+            "time_begin": 290.9090909090909,
+            "time_end": 387.8787878787879
+         },
+         {
+            "word": "道",
+            "word_begin": 2,
+            "word_end": 3,
+            "pronounce_word": "道",
+            "pronounce_word_begin": 2,
+            "pronounce_word_end": 3,
+            "time_begin": 387.8787878787879,
+            "time_end": 549.4949494949494
+         },
+         {
+            "word": "…",
+            "word_begin": 3,
+            "word_end": 4,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 3,
+            "pronounce_word_end": 4,
+            "time_begin": 549.4949494949494,
+            "time_end": 743.4343434343433
+         },
+         {
+            "word": "…",
+            "word_begin": 4,
+            "word_end": 5,
+            "pronounce_word": "…",
+            "pronounce_word_begin": 4,
+            "pronounce_word_end": 5,
+            "time_begin": 743.4343434343433,
+            "time_end": 775.7575757575758
+         },
+         {
+            "word": "我",
+            "word_begin": 5,
+            "word_end": 6,
+            "pronounce_word": "我",
+            "pronounce_word_begin": 5,
+            "pronounce_word_end": 6,
+            "time_begin": 775.7575757575758,
+            "time_end": 1066.6666666666665
+         },
+         {
+            "word": "又",
+            "word_begin": 6,
+            "word_end": 7,
+            "pronounce_word": "又",
+            "pronounce_word_begin": 6,
+            "pronounce_word_end": 7,
+            "time_begin": 1066.6666666666665,
+            "time_end": 1163.6363636363635
+         },
+         {
+            "word": "不",
+            "word_begin": 7,
+            "word_end": 8,
+            "pronounce_word": "不",
+            "pronounce_word_begin": 7,
+            "pronounce_word_end": 8,
+            "time_begin": 1163.6363636363635,
+            "time_end": 1260.6060606060605
+         },
+         {
+            "word": "值",
+            "word_begin": 8,
+            "word_end": 9,
+            "pronounce_word": "值",
+            "pronounce_word_begin": 8,
+            "pronounce_word_end": 9,
+            "time_begin": 1260.6060606060605,
+            "time_end": 1389.8989898989898
+         },
+         {
+            "word": "钱",
+            "word_begin": 9,
+            "word_end": 10,
+            "pronounce_word": "钱",
+            "pronounce_word_begin": 9,
+            "pronounce_word_end": 10,
+            "time_begin": 1389.8989898989898,
+            "time_end": 1519.1919191919192
+         },
+         {
+            "word": "。",
+            "word_begin": 10,
+            "word_end": 11,
+            "pronounce_word": "。",
+            "pronounce_word_begin": 10,
+            "pronounce_word_end": 11,
+            "time_begin": 1519.1919191919192,
+            "time_end": 1777.7777777777776
+         }
+      ]
+   }
+]

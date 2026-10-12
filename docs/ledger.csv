@@ -1,0 +1,213 @@
+time,provider,item,amount,currency,detail
+2026-10-12T01:28:18,minimax,tts voice_test,0.0175,CNY,speech-2.8-hd cute_boy 50ch -> child_cute_boy.wav
+2026-10-12T01:28:21,minimax,tts voice_test,0.0175,CNY,speech-2.8-hd clever_boy 50ch -> child_clever_boy.wav
+2026-10-12T01:28:25,minimax,tts voice_test,0.0231,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 66ch -> old_humorous_elder.wav
+2026-10-12T01:28:29,minimax,tts voice_test,0.0231,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 66ch -> old_humorous_elder_plain.wav
+2026-10-12T01:28:32,minimax,tts voice_test,0.0154,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 44ch -> inter_reliable_exec.wav
+2026-10-12T01:28:36,minimax,tts voice_test,0.0154,CNY,speech-2.8-hd Chinese (Mandarin)_Male_Announcer 44ch -> inter_male_announcer.wav
+2026-10-12T01:28:40,minimax,tts voice_test,0.0140,CNY,speech-2.8-hd Chinese (Mandarin)_Kind-hearted_Elder 40ch -> granny_kindhearted.wav
+2026-10-12T01:28:44,openrouter,tts voice_test,0.0012,USD,elevenlabs/eleven-v4 bill 31ch gen=gen-tts-1791739721-RKMdduKs6oLRIIYJWID9
+2026-10-12T01:28:47,openrouter,tts voice_test,0.0012,USD,elevenlabs/eleven-v4 george 31ch gen=gen-tts-1791739724-a2AD4iu5KzR4thu5gLmp
+2026-10-12T01:28:50,openrouter,tts voice_test,0.0009,USD,elevenlabs/eleven-v4 brian 22ch gen=gen-tts-1791739728-Uw9DWSfwRIem1Ks9fWb7
+2026-10-12T01:28:53,openrouter,tts voice_test,0.0009,USD,elevenlabs/eleven-v4 daniel 22ch gen=gen-tts-1791739731-rKMYGz0eLb5gJemTTraA
+2026-10-12T01:30:12,minimax,tts v01_gran_a,0.0049,CNY,speech-2.8-hd Chinese (Mandarin)_Kind-hearted_Elder 14ch -> v01_gran_a.wav
+2026-10-12T01:30:16,minimax,tts v01_gran_b,0.0066,CNY,speech-2.8-hd Chinese (Mandarin)_Kind-hearted_Elder 19ch -> v01_gran_b.wav
+2026-10-12T01:30:19,minimax,tts v02_01_int,0.0018,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 5ch -> v02_01_int.wav
+2026-10-12T01:30:22,minimax,tts v02_02_kid,0.0024,CNY,speech-2.8-hd clever_boy 7ch -> v02_02_kid.wav
+2026-10-12T01:30:25,minimax,tts v02_03_int,0.0018,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 5ch -> v02_03_int.wav
+2026-10-12T01:30:27,minimax,tts v02_04_kid,0.0059,CNY,speech-2.8-hd clever_boy 17ch -> v02_04_kid.wav
+2026-10-12T01:30:30,minimax,tts v02_05_kid,0.0091,CNY,speech-2.8-hd clever_boy 26ch -> v02_05_kid.wav
+2026-10-12T01:30:33,minimax,tts v02_06_int,0.0018,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 5ch -> v02_06_int.wav
+2026-10-12T01:30:36,minimax,tts v02_07_kid,0.0053,CNY,speech-2.8-hd clever_boy 15ch -> v02_07_kid.wav
+2026-10-12T01:30:40,minimax,tts v02_08_int,0.0112,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 32ch -> v02_08_int.wav
+2026-10-12T01:30:43,minimax,tts v02_09_kid,0.0189,CNY,speech-2.8-hd clever_boy 54ch -> v02_09_kid.wav
+2026-10-12T01:30:46,minimax,tts v02_10_kid,0.0056,CNY,speech-2.8-hd clever_boy 16ch -> v02_10_kid.wav
+2026-10-12T01:30:49,minimax,tts v02_11_int,0.0056,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 16ch -> v02_11_int.wav
+2026-10-12T01:30:52,minimax,tts v02_12_kid,0.0119,CNY,speech-2.8-hd clever_boy 34ch -> v02_12_kid.wav
+2026-10-12T01:30:56,minimax,tts v02_13_int,0.0066,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 19ch -> v02_13_int.wav
+2026-10-12T01:30:59,minimax,tts v02_14_kid,0.0164,CNY,speech-2.8-hd clever_boy 47ch -> v02_14_kid.wav
+2026-10-12T01:31:02,minimax,tts v02_15_int,0.0024,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 7ch -> v02_15_int.wav
+2026-10-12T01:31:05,minimax,tts v02_16_kid,0.0070,CNY,speech-2.8-hd clever_boy 20ch -> v02_16_kid.wav
+2026-10-12T01:31:08,minimax,tts v02_17_int,0.0063,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 18ch -> v02_17_int.wav
+2026-10-12T01:31:53,minimax,tts v02_18_kid,0.0154,CNY,speech-2.8-hd clever_boy 44ch -> v02_18_kid.wav
+2026-10-12T01:31:58,minimax,tts v02_19_int,0.0066,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 19ch -> v02_19_int.wav
+2026-10-12T01:32:03,minimax,tts v02_20_kid,0.0066,CNY,speech-2.8-hd clever_boy 19ch -> v02_20_kid.wav
+2026-10-12T01:32:08,minimax,tts v02_21_int,0.0091,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 26ch -> v02_21_int.wav
+2026-10-12T01:32:12,minimax,tts v02_22_kid,0.0070,CNY,speech-2.8-hd clever_boy 20ch -> v02_22_kid.wav
+2026-10-12T01:32:17,minimax,tts v02_23_int,0.0018,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 5ch -> v02_23_int.wav
+2026-10-12T01:32:21,minimax,tts v02_24_kid,0.0063,CNY,speech-2.8-hd clever_boy 18ch -> v02_24_kid.wav
+2026-10-12T01:32:26,minimax,tts v02_24_old,0.0063,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 18ch -> v02_24_old.wav
+2026-10-12T01:32:32,minimax,tts v03_1,0.0206,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 59ch -> v03_1.wav
+2026-10-12T01:32:38,minimax,tts v03_2,0.0151,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 43ch -> v03_2.wav
+2026-10-12T01:32:43,minimax,tts v03_3,0.0168,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 48ch -> v03_3.wav
+2026-10-12T01:32:49,minimax,tts v03_4,0.0151,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 43ch -> v03_4.wav
+2026-10-12T01:32:55,minimax,tts v03_5,0.0249,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 71ch -> v03_5.wav
+2026-10-12T01:33:01,minimax,tts v03_6,0.0171,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 49ch -> v03_6.wav
+2026-10-12T01:33:07,minimax,tts v03_7,0.0171,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 49ch -> v03_7.wav
+2026-10-12T01:33:12,minimax,tts v03_8,0.0126,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 36ch -> v03_8.wav
+2026-10-12T01:33:17,minimax,tts v04_old,0.0053,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 15ch -> v04_old.wav
+2026-10-12T01:33:22,minimax,tts v05_01_old,0.0073,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 21ch -> v05_01_old.wav
+2026-10-12T01:33:27,minimax,tts v05_02_man,0.0151,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 43ch -> v05_02_man.wav
+2026-10-12T01:33:33,minimax,tts v05_03_man,0.0129,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 37ch -> v05_03_man.wav
+2026-10-12T01:33:39,minimax,tts v05_04_man,0.0063,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 18ch -> v05_04_man.wav
+2026-10-12T01:33:46,minimax,tts v05_05_old,0.0290,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 83ch -> v05_05_old.wav
+2026-10-12T01:33:52,minimax,tts v05_06_old,0.0189,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 54ch -> v05_06_old.wav
+2026-10-12T01:33:57,minimax,tts v05_07_old,0.0255,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 73ch -> v05_07_old.wav
+2026-10-12T01:34:02,minimax,tts v05_08_old,0.0024,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 7ch -> v05_08_old.wav
+2026-10-12T01:34:06,minimax,tts v05_09_kid,0.0018,CNY,speech-2.8-hd clever_boy 5ch -> v05_09_kid.wav
+2026-10-12T01:34:58,minimax,tts v01_gran_a,0.0049,CNY,speech-2.8-hd Chinese (Mandarin)_Kind-hearted_Elder 14ch -> v01_gran_a.wav
+2026-10-12T01:35:03,minimax,tts v01_gran_b,0.0066,CNY,speech-2.8-hd Chinese (Mandarin)_Kind-hearted_Elder 19ch -> v01_gran_b.wav
+2026-10-12T01:35:07,minimax,tts v02_01_int,0.0018,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 5ch -> v02_01_int.wav
+2026-10-12T01:35:12,minimax,tts v02_02_kid,0.0024,CNY,speech-2.8-hd clever_boy 7ch -> v02_02_kid.wav
+2026-10-12T01:35:16,minimax,tts v02_03_int,0.0018,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 5ch -> v02_03_int.wav
+2026-10-12T01:35:20,minimax,tts v02_04_kid,0.0059,CNY,speech-2.8-hd clever_boy 17ch -> v02_04_kid.wav
+2026-10-12T01:35:25,minimax,tts v02_05_kid,0.0091,CNY,speech-2.8-hd clever_boy 26ch -> v02_05_kid.wav
+2026-10-12T01:35:29,minimax,tts v02_06_int,0.0018,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 5ch -> v02_06_int.wav
+2026-10-12T01:35:34,minimax,tts v02_07_kid,0.0053,CNY,speech-2.8-hd clever_boy 15ch -> v02_07_kid.wav
+2026-10-12T01:35:39,minimax,tts v02_08_int,0.0112,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 32ch -> v02_08_int.wav
+2026-10-12T01:35:44,minimax,tts v02_09_kid,0.0189,CNY,speech-2.8-hd clever_boy 54ch -> v02_09_kid.wav
+2026-10-12T01:35:48,minimax,tts v02_10_kid,0.0056,CNY,speech-2.8-hd clever_boy 16ch -> v02_10_kid.wav
+2026-10-12T01:35:53,minimax,tts v02_11_int,0.0056,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 16ch -> v02_11_int.wav
+2026-10-12T01:35:58,minimax,tts v02_12_kid,0.0119,CNY,speech-2.8-hd clever_boy 34ch -> v02_12_kid.wav
+2026-10-12T01:36:02,minimax,tts v02_13_int,0.0066,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 19ch -> v02_13_int.wav
+2026-10-12T01:36:07,minimax,tts v02_14_kid,0.0164,CNY,speech-2.8-hd clever_boy 47ch -> v02_14_kid.wav
+2026-10-12T01:36:11,minimax,tts v02_15_int,0.0024,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 7ch -> v02_15_int.wav
+2026-10-12T01:36:16,minimax,tts v02_16_kid,0.0070,CNY,speech-2.8-hd clever_boy 20ch -> v02_16_kid.wav
+2026-10-12T01:36:21,minimax,tts v02_17_int,0.0063,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 18ch -> v02_17_int.wav
+2026-10-12T01:36:26,minimax,tts v02_18_kid,0.0154,CNY,speech-2.8-hd clever_boy 44ch -> v02_18_kid.wav
+2026-10-12T01:36:30,minimax,tts v02_19_int,0.0066,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 19ch -> v02_19_int.wav
+2026-10-12T01:36:35,minimax,tts v02_20_kid,0.0066,CNY,speech-2.8-hd clever_boy 19ch -> v02_20_kid.wav
+2026-10-12T01:36:40,minimax,tts v02_21_int,0.0091,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 26ch -> v02_21_int.wav
+2026-10-12T01:36:44,minimax,tts v02_22_kid,0.0070,CNY,speech-2.8-hd clever_boy 20ch -> v02_22_kid.wav
+2026-10-12T01:36:49,minimax,tts v02_23_int,0.0018,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 5ch -> v02_23_int.wav
+2026-10-12T01:36:54,minimax,tts v02_24_kid,0.0063,CNY,speech-2.8-hd clever_boy 18ch -> v02_24_kid.wav
+2026-10-12T01:36:59,minimax,tts v02_24_old,0.0063,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 18ch -> v02_24_old.wav
+2026-10-12T01:37:04,minimax,tts v03_1,0.0206,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 59ch -> v03_1.wav
+2026-10-12T01:37:09,minimax,tts v03_2,0.0151,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 43ch -> v03_2.wav
+2026-10-12T01:37:15,minimax,tts v03_3,0.0168,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 48ch -> v03_3.wav
+2026-10-12T01:37:21,minimax,tts v03_4,0.0151,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 43ch -> v03_4.wav
+2026-10-12T01:37:27,minimax,tts v03_5,0.0249,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 71ch -> v03_5.wav
+2026-10-12T01:37:32,minimax,tts v03_6,0.0171,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 49ch -> v03_6.wav
+2026-10-12T01:37:38,minimax,tts v03_7,0.0171,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 49ch -> v03_7.wav
+2026-10-12T01:37:43,minimax,tts v03_8,0.0126,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 36ch -> v03_8.wav
+2026-10-12T01:37:48,minimax,tts v04_old,0.0053,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 15ch -> v04_old.wav
+2026-10-12T01:37:52,minimax,tts v05_01_old,0.0073,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 21ch -> v05_01_old.wav
+2026-10-12T01:37:58,minimax,tts v05_02_man,0.0151,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 43ch -> v05_02_man.wav
+2026-10-12T01:38:04,minimax,tts v05_03_man,0.0129,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 37ch -> v05_03_man.wav
+2026-10-12T01:38:09,minimax,tts v05_04_man,0.0063,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 18ch -> v05_04_man.wav
+2026-10-12T01:38:16,minimax,tts v05_05_old,0.0290,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 83ch -> v05_05_old.wav
+2026-10-12T01:38:22,minimax,tts v05_06_old,0.0189,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 54ch -> v05_06_old.wav
+2026-10-12T01:38:28,minimax,tts v05_07_old,0.0255,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 73ch -> v05_07_old.wav
+2026-10-12T01:38:32,minimax,tts v05_08_old,0.0024,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 7ch -> v05_08_old.wav
+2026-10-12T01:38:36,minimax,tts v05_09_kid,0.0018,CNY,speech-2.8-hd clever_boy 5ch -> v05_09_kid.wav
+2026-10-12T01:46:21,minimax,tts v01_gran_a,0.0049,CNY,speech-2.8-hd Chinese (Mandarin)_Kind-hearted_Elder 14ch -> v01_gran_a_t1.wav
+2026-10-12T01:46:26,minimax,tts v01_gran_a,0.0049,CNY,speech-2.8-hd Chinese (Mandarin)_Kind-hearted_Elder 14ch -> v01_gran_a_t2.wav
+2026-10-12T01:46:31,minimax,tts v01_gran_b,0.0066,CNY,speech-2.8-hd Chinese (Mandarin)_Kind-hearted_Elder 19ch -> v01_gran_b_t1.wav
+2026-10-12T01:46:37,minimax,tts v01_gran_b,0.0066,CNY,speech-2.8-hd Chinese (Mandarin)_Kind-hearted_Elder 19ch -> v01_gran_b_t2.wav
+2026-10-12T01:46:41,minimax,tts v02_01_int,0.0018,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 5ch -> v02_01_int_t1.wav
+2026-10-12T01:46:46,minimax,tts v02_01_int,0.0018,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 5ch -> v02_01_int_t2.wav
+2026-10-12T01:46:50,minimax,tts v02_02_kid,0.0024,CNY,speech-2.8-hd clever_boy 7ch -> v02_02_kid_t1.wav
+2026-10-12T01:46:54,minimax,tts v02_02_kid,0.0024,CNY,speech-2.8-hd clever_boy 7ch -> v02_02_kid_t2.wav
+2026-10-12T01:46:58,minimax,tts v02_03_int,0.0018,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 5ch -> v02_03_int_t1.wav
+2026-10-12T01:47:02,minimax,tts v02_03_int,0.0018,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 5ch -> v02_03_int_t2.wav
+2026-10-12T01:47:06,minimax,tts v02_04_kid,0.0059,CNY,speech-2.8-hd clever_boy 17ch -> v02_04_kid_t1.wav
+2026-10-12T01:47:10,minimax,tts v02_04_kid,0.0059,CNY,speech-2.8-hd clever_boy 17ch -> v02_04_kid_t2.wav
+2026-10-12T01:47:15,minimax,tts v02_05_kid,0.0091,CNY,speech-2.8-hd clever_boy 26ch -> v02_05_kid_t1.wav
+2026-10-12T01:47:19,minimax,tts v02_05_kid,0.0091,CNY,speech-2.8-hd clever_boy 26ch -> v02_05_kid_t2.wav
+2026-10-12T01:47:23,minimax,tts v02_06_int,0.0018,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 5ch -> v02_06_int_t1.wav
+2026-10-12T01:47:27,minimax,tts v02_06_int,0.0018,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 5ch -> v02_06_int_t2.wav
+2026-10-12T01:47:31,minimax,tts v02_07_kid,0.0053,CNY,speech-2.8-hd clever_boy 15ch -> v02_07_kid_t1.wav
+2026-10-12T01:47:35,minimax,tts v02_07_kid,0.0053,CNY,speech-2.8-hd clever_boy 15ch -> v02_07_kid_t2.wav
+2026-10-12T01:47:40,minimax,tts v02_08_int,0.0112,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 32ch -> v02_08_int_t1.wav
+2026-10-12T01:47:45,minimax,tts v02_08_int,0.0112,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 32ch -> v02_08_int_t2.wav
+2026-10-12T01:47:50,minimax,tts v02_09_kid,0.0189,CNY,speech-2.8-hd clever_boy 54ch -> v02_09_kid_t1.wav
+2026-10-12T01:47:55,minimax,tts v02_09_kid,0.0189,CNY,speech-2.8-hd clever_boy 54ch -> v02_09_kid_t2.wav
+2026-10-12T01:47:59,minimax,tts v02_10_kid,0.0056,CNY,speech-2.8-hd clever_boy 16ch -> v02_10_kid_t1.wav
+2026-10-12T01:48:03,minimax,tts v02_10_kid,0.0056,CNY,speech-2.8-hd clever_boy 16ch -> v02_10_kid_t2.wav
+2026-10-12T01:48:07,minimax,tts v02_11_int,0.0056,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 16ch -> v02_11_int_t1.wav
+2026-10-12T01:48:12,minimax,tts v02_11_int,0.0056,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 16ch -> v02_11_int_t2.wav
+2026-10-12T01:48:16,minimax,tts v02_12_kid,0.0119,CNY,speech-2.8-hd clever_boy 34ch -> v02_12_kid_t1.wav
+2026-10-12T01:48:21,minimax,tts v02_12_kid,0.0119,CNY,speech-2.8-hd clever_boy 34ch -> v02_12_kid_t2.wav
+2026-10-12T01:48:26,minimax,tts v02_13_int,0.0066,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 19ch -> v02_13_int_t1.wav
+2026-10-12T01:48:30,minimax,tts v02_13_int,0.0066,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 19ch -> v02_13_int_t2.wav
+2026-10-12T01:48:35,minimax,tts v02_14_kid,0.0164,CNY,speech-2.8-hd clever_boy 47ch -> v02_14_kid_t1.wav
+2026-10-12T01:48:39,minimax,tts v02_14_kid,0.0164,CNY,speech-2.8-hd clever_boy 47ch -> v02_14_kid_t2.wav
+2026-10-12T01:48:43,minimax,tts v02_15_int,0.0024,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 7ch -> v02_15_int_t1.wav
+2026-10-12T01:48:47,minimax,tts v02_15_int,0.0024,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 7ch -> v02_15_int_t2.wav
+2026-10-12T01:48:52,minimax,tts v02_16_kid,0.0070,CNY,speech-2.8-hd clever_boy 20ch -> v02_16_kid_t1.wav
+2026-10-12T01:49:03,minimax,tts v02_16_kid,0.0070,CNY,speech-2.8-hd clever_boy 20ch -> v02_16_kid_t2.wav
+2026-10-12T01:49:08,minimax,tts v02_17_int,0.0063,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 18ch -> v02_17_int_t1.wav
+2026-10-12T01:49:13,minimax,tts v02_17_int,0.0063,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 18ch -> v02_17_int_t2.wav
+2026-10-12T01:49:17,minimax,tts v02_18_kid,0.0154,CNY,speech-2.8-hd clever_boy 44ch -> v02_18_kid_t1.wav
+2026-10-12T01:49:22,minimax,tts v02_18_kid,0.0154,CNY,speech-2.8-hd clever_boy 44ch -> v02_18_kid_t2.wav
+2026-10-12T01:49:34,minimax,tts v02_19_int,0.0066,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 19ch -> v02_19_int_t1.wav
+2026-10-12T01:49:39,minimax,tts v02_19_int,0.0066,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 19ch -> v02_19_int_t2.wav
+2026-10-12T01:49:43,minimax,tts v02_20_kid,0.0066,CNY,speech-2.8-hd clever_boy 19ch -> v02_20_kid_t1.wav
+2026-10-12T01:49:47,minimax,tts v02_20_kid,0.0066,CNY,speech-2.8-hd clever_boy 19ch -> v02_20_kid_t2.wav
+2026-10-12T01:49:52,minimax,tts v02_21_int,0.0091,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 26ch -> v02_21_int_t1.wav
+2026-10-12T01:50:03,minimax,tts v02_21_int,0.0091,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 26ch -> v02_21_int_t2.wav
+2026-10-12T01:50:07,minimax,tts v02_22_kid,0.0070,CNY,speech-2.8-hd clever_boy 20ch -> v02_22_kid_t1.wav
+2026-10-12T01:50:11,minimax,tts v02_22_kid,0.0070,CNY,speech-2.8-hd clever_boy 20ch -> v02_22_kid_t2.wav
+2026-10-12T01:50:15,minimax,tts v02_23_int,0.0018,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 5ch -> v02_23_int_t1.wav
+2026-10-12T01:50:27,minimax,tts v02_23_int,0.0018,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 5ch -> v02_23_int_t2.wav
+2026-10-12T01:50:31,minimax,tts v02_24_kid,0.0063,CNY,speech-2.8-hd clever_boy 18ch -> v02_24_kid_t1.wav
+2026-10-12T01:50:37,minimax,tts v02_24_kid,0.0063,CNY,speech-2.8-hd clever_boy 18ch -> v02_24_kid_t2.wav
+2026-10-12T01:50:41,minimax,tts v02_24_old,0.0063,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 18ch -> v02_24_old_t1.wav
+2026-10-12T01:50:46,minimax,tts v02_24_old,0.0063,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 18ch -> v02_24_old_t2.wav
+2026-10-12T01:50:58,minimax,tts v03_1,0.0206,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 59ch -> v03_1_t1.wav
+2026-10-12T01:51:03,minimax,tts v03_1,0.0206,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 59ch -> v03_1_t2.wav
+2026-10-12T01:51:08,minimax,tts v03_2,0.0151,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 43ch -> v03_2_t1.wav
+2026-10-12T01:51:14,minimax,tts v03_2,0.0151,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 43ch -> v03_2_t2.wav
+2026-10-12T01:51:19,minimax,tts v03_3,0.0168,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 48ch -> v03_3_t1.wav
+2026-10-12T01:51:24,minimax,tts v03_3,0.0168,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 48ch -> v03_3_t2.wav
+2026-10-12T01:51:28,minimax,tts v03_4,0.0151,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 43ch -> v03_4_t1.wav
+2026-10-12T01:51:40,minimax,tts v03_4,0.0151,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 43ch -> v03_4_t2.wav
+2026-10-12T01:51:46,minimax,tts v03_5,0.0249,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 71ch -> v03_5_t1.wav
+2026-10-12T01:51:52,minimax,tts v03_5,0.0249,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 71ch -> v03_5_t2.wav
+2026-10-12T01:51:57,minimax,tts v03_6,0.0171,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 49ch -> v03_6_t1.wav
+2026-10-12T01:52:02,minimax,tts v03_6,0.0171,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 49ch -> v03_6_t2.wav
+2026-10-12T01:52:07,minimax,tts v03_7,0.0171,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 49ch -> v03_7_t1.wav
+2026-10-12T01:52:12,minimax,tts v03_7,0.0171,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 49ch -> v03_7_t2.wav
+2026-10-12T01:52:17,minimax,tts v03_8,0.0126,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 36ch -> v03_8_t1.wav
+2026-10-12T01:52:22,minimax,tts v03_8,0.0126,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 36ch -> v03_8_t2.wav
+2026-10-12T01:52:33,minimax,tts v04_old,0.0053,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 15ch -> v04_old_t1.wav
+2026-10-12T01:52:38,minimax,tts v04_old,0.0053,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 15ch -> v04_old_t2.wav
+2026-10-12T01:52:42,minimax,tts v05_01_old,0.0073,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 21ch -> v05_01_old_t1.wav
+2026-10-12T01:52:47,minimax,tts v05_01_old,0.0073,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 21ch -> v05_01_old_t2.wav
+2026-10-12T01:53:00,minimax,tts v05_02_man,0.0151,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 43ch -> v05_02_man_t1.wav
+2026-10-12T01:53:05,minimax,tts v05_02_man,0.0151,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 43ch -> v05_02_man_t2.wav
+2026-10-12T01:53:10,minimax,tts v05_03_man,0.0129,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 37ch -> v05_03_man_t1.wav
+2026-10-12T01:53:16,minimax,tts v05_03_man,0.0129,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 37ch -> v05_03_man_t2.wav
+2026-10-12T01:53:20,minimax,tts v05_04_man,0.0063,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 18ch -> v05_04_man_t1.wav
+2026-10-12T01:53:25,minimax,tts v05_04_man,0.0063,CNY,speech-2.8-hd Chinese (Mandarin)_Reliable_Executive 18ch -> v05_04_man_t2.wav
+2026-10-12T01:53:30,minimax,tts v05_05_old,0.0290,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 83ch -> v05_05_old_t1.wav
+2026-10-12T01:53:36,minimax,tts v05_05_old,0.0290,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 83ch -> v05_05_old_t2.wav
+2026-10-12T01:53:41,minimax,tts v05_06_old,0.0189,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 54ch -> v05_06_old_t1.wav
+2026-10-12T01:53:53,minimax,tts v05_06_old,0.0189,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 54ch -> v05_06_old_t2.wav
+2026-10-12T01:53:59,minimax,tts v05_07_old,0.0255,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 73ch -> v05_07_old_t1.wav
+2026-10-12T01:54:04,minimax,tts v05_07_old,0.0255,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 73ch -> v05_07_old_t2.wav
+2026-10-12T01:54:09,minimax,tts v05_08_old,0.0024,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 7ch -> v05_08_old_t1.wav
+2026-10-12T01:54:13,minimax,tts v05_08_old,0.0024,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 7ch -> v05_08_old_t2.wav
+2026-10-12T01:54:17,minimax,tts v05_09_kid,0.0018,CNY,speech-2.8-hd clever_boy 5ch -> v05_09_kid_t1.wav
+2026-10-12T01:54:28,minimax,tts v05_09_kid,0.0018,CNY,speech-2.8-hd clever_boy 5ch -> v05_09_kid_t2.wav
+2026-10-12T01:57:40,minimax,video S03,2.0000,CNY,MiniMax-H3 768P 4s task=451331512312199
+2026-10-12T01:57:55,minimax,video S09,3.0000,CNY,MiniMax-H3 768P 6s task=451332038017412
+2026-10-12T01:57:59,minimax,video S19,4.0000,CNY,MiniMax-H3 768P 8s task=451328786399517
+2026-10-12T01:58:03,minimax,video S26,2.0000,CNY,MiniMax-H3 768P 4s task=451330020974878
+2026-10-12T01:58:06,minimax,video S29a,3.0000,CNY,MiniMax-H3 768P 6s task=451331334320528
+2026-10-12T01:58:10,minimax,video S29b,4.0000,CNY,MiniMax-H3 768P 8s task=451328019296695
+2026-10-12T01:58:13,minimax,video S30_1,2.0000,CNY,MiniMax-H3 768P 4s task=451331334320529
+2026-10-12T01:58:17,minimax,video S30_2,2.0000,CNY,MiniMax-H3 768P 4s task=451330366865817
+2026-10-12T01:58:22,minimax,video S31_1,2.0000,CNY,MiniMax-H3 768P 4s task=451326609564086
+2026-10-12T01:58:26,minimax,video S31_3,2.0000,CNY,MiniMax-H3 768P 4s task=451326720160190
+2026-10-12T01:58:31,minimax,video S33a,2.0000,CNY,MiniMax-H3 768P 4s task=451332093051142
+2026-10-12T01:58:37,minimax,video S33b,2.0000,CNY,MiniMax-H3 768P 4s task=451330091942290
+2026-10-12T02:01:32,minimax,video S04,2.0000,CNY,MiniMax-H3 768P 4s task=451331151278363
+2026-10-12T02:01:36,minimax,video S28,2.0000,CNY,MiniMax-H3 768P 4s task=451328719622439
+2026-10-12T02:01:42,minimax,video S30_3,2.0000,CNY,MiniMax-H3 768P 4s task=451329591787936
+2026-10-12T03:12:19,openrouter,music S15-S22,0.0800,USD,google/lyria-3-pro-preview
+2026-10-12T03:13:57,openrouter,music S26-S37,0.0800,USD,google/lyria-3-pro-preview
+2026-10-12T03:43:15,minimax,video S27,2.5000,CNY,MiniMax-H3 768P 5s task=451358605595010
+2026-10-12T03:46:17,minimax,video S32,2.5000,CNY,MiniMax-H3 768P 5s task=451358211694859
+2026-10-12T07:49:54,minimax,tts v02_24_old,0.0063,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 18ch -> v02_24_old_t3.wav
+2026-10-12T07:49:58,minimax,tts v02_24_old,0.0063,CNY,speech-2.8-hd Chinese (Mandarin)_Humorous_Elder 18ch -> v02_24_old_t4.wav
